@@ -26,7 +26,8 @@ Mobs:
 - Phlox Titan (Invulnerable)
 - Crocus Titan (Invulnerable)
 - Manta Rays (Cosmic in space or end, fire in the nether, and normal in overworld)
-- Slithering Cat
+- Slithering Cats
+- Droopy Dragons
 
 Structures:
 - Observatory
@@ -156,6 +157,7 @@ Features:
 - Peacock spiders attack spiders and cave spiders.
 - Comets and asteroids are more likely during an aurora.
 - Frostbittens cause freezing damage for 5 seconds when they attack.
+- Droopy dragons can spawn on some cosmic dimensions or its egg can either be obtained from comets or bartered by aliens. Right clicking on a droopy dragon will give the player the unused Droopy Likes Your Face music disc.
 
 Items:
 - Maple Boat
@@ -171,6 +173,8 @@ Items:
 - Smilodon Husk
 - Smilodon DNA
 - Smilodon Egg
+- Droopy Dragon Egg
+- Droopy Likes Your Face Music Disc
 - Yeti Fur
 - Insulated Chainmail Helmet
 - Insulated Chainmail Chestplate
@@ -235,6 +239,7 @@ Items:
 - Moose Spawn Egg
 - Manta Ray Spawn Egg
 - Slithering Cat Spawn Egg
+- Droopy Dragon Spawn Egg
 
 Foods:
 - Maple Syrup
