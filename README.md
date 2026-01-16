@@ -30,7 +30,7 @@ Mobs:
 - Droopy Dragons
 - Somniworms
 - Woolly Rhinoceroses
-- Blob (blue, pink, green, red, white, and black)
+- Blobs (blue, pink, green, red, white, and black)
 
 Structures:
 - Observatory
