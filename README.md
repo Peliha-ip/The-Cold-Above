@@ -10,7 +10,7 @@ Mobs:
 - Tangleds
 - Capricorns
 - Space Whales
-- Flatworms
+- Flatworms (cosmic and sea variants)
 - Peacock Spiders
 - Frostbittens
 - Yetis
@@ -26,6 +26,7 @@ Mobs:
 - Phlox Titan (Invulnerable)
 - Crocus Titan (Invulnerable)
 - Manta Rays (Cosmic in space or end, fire in the nether, and normal in overworld)
+- Slithering Cat
 
 Structures:
 - Observatory
@@ -132,7 +133,7 @@ Blocks
 - Maple Leaf
 
 Features:
-- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms, peacock spiders, capricorns, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
 - Rubies are used as currency with aliens like gloops and tangleds. Aliens can barter rubies for special loot.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
