@@ -29,7 +29,7 @@ Mobs:
 - Slithering Cats
 - Droopy Dragons
 - Somniworms
-- Wooly Rhinoceroses
+- Woolly Rhinoceroses
 
 Structures:
 - Observatory
@@ -134,7 +134,8 @@ Blocks
 - Reinforced Wood
 - Reinforced Leaves
 - Maple Leaf
-- Wooly Rhinoceros Reviver
+- Woolly Rhinoceros Reviver
+- Goo Block
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -162,6 +163,7 @@ Features:
 - Frostbittens cause freezing damage for 5 seconds when they attack.
 - Droopy dragons can spawn on some cosmic dimensions or its egg can either be obtained from comets or bartered by aliens. Right clicking on a droopy dragon will give the player the unused Droopy Likes Your Face music disc.
 - Snow golems can now have different faces and can even be equipped with carrots or golden carrots.
+- Woolly rhinoceroses can be dyed in any color, they also yield more wool than sheep, but they're neutral mobs.
 
 Items:
 - Maple Boat
@@ -179,9 +181,9 @@ Items:
 - Smilodon Egg
 - Droopy Dragon Egg
 - Droopy Likes Your Face Music Disc
-- Wooly Rhinoceros Husk
-- Wooly Rhinoceros DNA
-- Wooly Rhinoceros Egg
+- Woolly Rhinoceros Husk
+- Woolly Rhinoceros DNA
+- Woolly Rhinoceros Egg
 - Yeti Fur
 - Insulated Chainmail Helmet
 - Insulated Chainmail Chestplate
@@ -223,6 +225,7 @@ Items:
 - Cat Armor
 - Insulated Cat Armor
 - Iceologer Spell
+- Goo
 - Penguin Spawn Egg
 - Iceloger Spawn Egg
 - Leopard Seal Spawn Egg
@@ -248,7 +251,7 @@ Items:
 - Slithering Cat Spawn Egg
 - Droopy Dragon Spawn Egg
 - Somniworm Spawn Egg
-- Wooly Rhinoceros Spawn Egg
+- Woolly Rhinoceros Spawn Egg
 
 Foods:
 - Maple Syrup
@@ -266,7 +269,6 @@ Foods:
 - Goat Milk
 - Goat Cheese
 - Bacon
-- Goo
 - Cheese
 
 Advancements: 
