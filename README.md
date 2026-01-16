@@ -281,3 +281,4 @@ Advancements:
 - Alien Products (Barter rubies with aliens)
 - Moon Landing Wasn't Fake (Land on the Moon)
 - Less Alien (Smelt goo into a slimeball)
+- Unicorn With Thick Wool (Revive a woolly rhinoceros)
