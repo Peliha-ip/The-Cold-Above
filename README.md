@@ -1,2 +1,235 @@
 # The-Cold-Above
 What does space + ice make? The Cold Above, a mod that is both frosty and cosmic. This mod also brings back the penguin from the 2023 mob vote and the iceologer from the 2020 mob vote. One more thing, some cosmic dimensions can lead you to places you might recognize.
+
+Mobs: 
+- Leopard Seals
+- Penguins
+- Iceologer
+- Beavers
+- Gloops
+- Tangleds
+- Capricorns
+- Space Whales
+- Flatworms
+- Peacock Spiders
+- Frostbittens
+- Yetis
+- Smilodons
+- Moose
+- Reindeer
+- Yaks
+- Snow Leopards
+- Narwhals
+- Belugas
+- Orcas
+- Elephant Seals
+
+Structures:
+- Observatory
+- Wooden Shack
+- Lunar Base
+
+Dimensions:
+- Crocus
+- Phlox
+- Storybook
+- Moon
+
+Blocks
+- Maple Wood
+- Maple Planks
+- Maple Door
+- Maple Fence
+- Maple Fence Gate
+- Maple Button
+- Maple Pressure Plate
+- Maple Trapdoor
+- Maple Log
+- Maple Leaves
+- Stripped Maple Log
+- Stripped Maple Wood
+- Maple Slab
+- Maple Stairs
+- Maple Sign
+- Hanging Maple Sign
+- Maple Shelf
+- Fir Wood
+- Fir Planks
+- Fir Door
+- Fir Fence
+- Fir Fence Gate
+- Fir Button
+- Fir Pressure Plate
+- Fir Trapdoor
+- Fir Log
+- Fir Leaves
+- Stripped Fir Log
+- Stripped Fir Wood
+- Fir Slab
+- Fir Stairs
+- Fir Sign
+- Hanging Fir Sign
+- Fir Shelf
+- Crocus
+- Phlox
+- Asteroid Stone
+- Asteroid Stone Slab
+- Asteroid Stone Stairs
+- Asteroid Stone Wall
+- Smooth Asteroid Stone
+- Smooth Asteroid Stone Slab
+- Smooth Asteroid Stone Stairs
+- Smooth Asteroid Stone Wall
+- Polished Asteroid Stone
+- Polished Asteroid Stone Slab
+- Polished Asteroid Stone Stairs
+- Polished Asteroid Stone Wall
+- Asteroid Stone Bricks
+- Asteroid Stone Bricks Slab
+- Asteroid Stone Bricks Stairs
+- Asteroid Stone Bricks Wall
+- Asteroid Stone Tiles
+- Asteroid Stone Tiles Slab
+- Asteroid Stone Tiles Stairs
+- Asteroid Stone Tiles Wall
+- Ruby Block
+- Stardust Block
+- Stardust Clumps
+- Crocus Stem
+- Crocus Petals
+- Phlox Stem
+- Phlox Petals
+- Moon Stone
+- Moon Stone Slab
+- Moon Stone Stairs
+- Moon Stone Wall
+- Polished Moon Stone
+- Polished Moon Stone Slab
+- Polished Moon Stone Stairs
+- Polished Moon Stone Wall
+- Smooth Moon Stone
+- Smooth Moon Stone Slab
+- Smooth Moon Stone Stairs
+- Smooth Moon Stone Wall
+- Moon Stone Bricks
+- Moon Stone Bricks Slab
+- Moon Stone Bricks Stairs
+- Moon Stone Bricks Wall
+- Moon Stone Tiles
+- Moon Stone Tiles Slab
+- Moon Stone Tiles Stairs
+- Moon Stone Tiles Wall
+- Maple Syrup Snow
+- Smilodon Reviver
+
+Features:
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms, peacock spiders, capricorns, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Aurorae will appear in any cold biome or in any taiga or mountain variants.
+- Rubies are used as currency with aliens like gloops and tangleds. Aliens can barter rubies for special loot.
+- Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
+- A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
+- Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, what allows the player to travel in space.
+- Placing maple syrup and a stick on a snow block will turn the syrup and the stick into maple taffy. The snow block will take 15 seconds to turn the maple syrup and the stick into maple taffy. Eating the maple taffy will turn it back into a stick.
+- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, material that can be added into any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability with leather. Insulated boots of any tiers allow player to walk on powdered snow, making leather boots in mid to late game less of a burden.
+- Renaming a smilodon "Diego" will change its model to the famous character from Ice Age.
+- Wooden Shacks can often have smilodon husks as loot.
+- Penguins will make boats faster.
+- Icelogers will appear in raids.
+- Stardust and rubies can also be used to craft cat armor, that will protect cats, give better gifts, and repels creepers and phantoms from further away.
+
+Items:
+- Maple Boat
+- Maple Boat With Chest
+- Fir Boat
+- Fir Boat With Chest
+- Stardust
+- Rubies
+- Frost Armor Trim
+- Cosmic Armor Trim
+- Lunar Banner Pattern
+- Canadian Banner Pattern
+- Smilodon Husk
+- Smilodon DNA
+- Smilodon Egg
+- Maple Leaf
+- Yeti Fur
+- Insulated Chainmail Helmet
+- Insulated Chainmail Chestplate
+- Insulated Chainmail Leggings
+- Insulated Chainmail Boots
+- Insulated Copper Helmet
+- Insulated Copper Chestplate
+- Insulated Copper Leggings
+- Insulated Copper Boots
+- Insulated Golden Helmet
+- Insulated Golden Chestplate
+- Insulated Golden Leggings
+- Insulated Golden Boots
+- Insulated Iron Helmet
+- Insulated Iron Chestplate
+- Insulated Iron Leggings
+- Insulated Iron Boots
+- Insulated Diamond Helmet
+- Insulated Diamond Chestplate
+- Insulated Diamond Leggings
+- Insulated Diamond Boots
+- Insulated Netherite Helmet
+- Insulated Netherite Chestplate
+- Insulated Netherite Leggings
+- Insulated Netherite Boots
+- Insulated Elytra
+- Insulated Turtle Shell Helmet
+- Insulated Wolf Armor
+- Insulated Iron Horse Armor
+- Insulated Golden Horse Armor
+- Insulated Diamond Horse Armor
+- Insulated Netherite Horse Armor
+- Insulated Copper Horse Armor
+- Insulated Copper Nautilus Armor
+- Insulated Golden Nautilus Armor
+- Insulated Iron Nautilus Armor
+- Insulated Diamond Nautilus Armor
+- Insulated Netherite Nautilus Armor
+- Cat Armor
+- Insulated Cat Armor
+- Iceologer Spell
+- Penguin Spawn Egg
+- Iceloger Spawn Egg
+- Leopard Seal Spawn Egg
+- Elephant Seal Spawn Egg
+- Flatworm Spawn Egg
+- Space Whale Spawn Egg
+- Tangled Spawn Egg
+- Gloop Spawn Egg
+- Peacock Spider Spawn Egg
+- Capricorn Spawn Egg
+- Beluga Spawn Egg
+- Orca Spawn Egg
+- Moose Spawn Egg
+- Narwhal Spawn Egg
+- Yeti Spawn Egg
+- Yak Spawn Egg
+- Beaver Spawn Egg
+- Snow Leopard Spawn Egg
+- Frostbitten Spawn Egg
+- Reindeer Spawn Egg
+- Moose Spawn Egg
+
+Foods:
+- Maple Syrup
+- Maple Taffy
+- Beaver Tail
+- Pancakes
+- Crepes
+- Waffles
+- Mints
+
+Advancements: 
+- Is It Cold Outside (Encounter a yeti)
+- Bom-Ba-Dum (Give a mint to a yeti)
+- Yessir, It's Cold Outside (Breed two yetis)
+- Phosphoran Finding (Enter the Phlox dimension)
+- Cruv'laaphtian Discovery (Enter the Crocus dimension)
+- She's Sleeping Under the Tree on the Hill (Enter the storybook dimension)
+- Alien Products (Barter rubies with aliens)
+- Moon Landing Wasn't Fake (Land on the Moon)
