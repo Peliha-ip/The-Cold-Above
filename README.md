@@ -150,6 +150,7 @@ Features:
 - Narwhals, belugas, and orcas can die if beached for too long (not because of suffocation).
 - Fire rays can be a great transportation method in the nether, but risky in the overworld because rain hurts fire rays. Cosmic rays are more appropriate for traveling in the overworld, although not immune to fire unlike fire rays.
 - Goo can be dropped from gloops and tangleds and can be smelted into slimeballs.
+- Armadillos run from peacock spiders.
 
 Items:
 - Maple Boat
