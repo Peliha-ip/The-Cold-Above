@@ -121,6 +121,7 @@ Blocks
 - Moon Stone Tiles Wall
 - Maple Syrup Snow
 - Smilodon Reviver
+- Reinforced Grass Block
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms, peacock spiders, capricorns, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, or in rare cases, netherite and armor trims, might come with two new armor trims.
