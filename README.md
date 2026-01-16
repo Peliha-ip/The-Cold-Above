@@ -129,9 +129,10 @@ Blocks
 - Reinforced Grass Block
 - Reinforced Wood
 - Reinforced Leaves
+- Maple Leaf
 
 Features:
-- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms, peacock spiders, capricorns, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms, peacock spiders, capricorns, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
 - Rubies are used as currency with aliens like gloops and tangleds. Aliens can barter rubies for special loot.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
@@ -151,6 +152,9 @@ Features:
 - Fire rays can be a great transportation method in the nether, but risky in the overworld because rain hurts fire rays. Cosmic rays are more appropriate for traveling in the overworld, although not immune to fire unlike fire rays.
 - Goo can be dropped from gloops and tangleds and can be smelted into slimeballs.
 - Armadillos run from peacock spiders.
+- Peacock spiders attack spiders and cave spiders.
+- Comets and asteroids are more likely during an aurora.
+- Frostbittens cause freezing damage for 5 seconds when they attack.
 
 Items:
 - Maple Boat
@@ -160,13 +164,12 @@ Items:
 - Stardust
 - Rubies
 - Frost Armor Trim
-- Cosmic Armor Trim
+- Cosmos Armor Trim
 - Lunar Banner Pattern
 - Canadian Banner Pattern
 - Smilodon Husk
 - Smilodon DNA
 - Smilodon Egg
-- Maple Leaf
 - Yeti Fur
 - Insulated Chainmail Helmet
 - Insulated Chainmail Chestplate
