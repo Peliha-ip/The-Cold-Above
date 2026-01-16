@@ -158,6 +158,7 @@ Features:
 - Comets and asteroids are more likely during an aurora.
 - Frostbittens cause freezing damage for 5 seconds when they attack.
 - Droopy dragons can spawn on some cosmic dimensions or its egg can either be obtained from comets or bartered by aliens. Right clicking on a droopy dragon will give the player the unused Droopy Likes Your Face music disc.
+- Snow golems can now have different faces and can even be equipped with carrots or golden carrots.
 
 Items:
 - Maple Boat
