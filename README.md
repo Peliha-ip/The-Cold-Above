@@ -28,6 +28,8 @@ Mobs:
 - Manta Rays (Cosmic in space or end, fire in the nether, and normal in overworld)
 - Slithering Cats
 - Droopy Dragons
+- Somniworms
+- Wooly Rhinoceroses
 
 Structures:
 - Observatory
@@ -132,18 +134,19 @@ Blocks
 - Reinforced Wood
 - Reinforced Leaves
 - Maple Leaf
+- Wooly Rhinoceros Reviver
 
 Features:
-- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
-- Rubies are used as currency with aliens like gloops and tangleds. Aliens can barter rubies for special loot.
+- Rubies are used as currency with aliens like gloops, slithering cats, somniworms, and tangleds. Aliens can barter rubies for special loot.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, what allows the player to travel in space.
 - Placing maple syrup and a stick on a snow block will turn the syrup and the stick into maple taffy. The snow block will take 15 seconds to turn the maple syrup and the stick into maple taffy. Eating the maple taffy will turn it back into a stick.
 - Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, material that can be added into any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability with leather. Insulated boots of any tiers allow player to walk on powdered snow, making leather boots in mid to late game less of a burden.
 - Renaming a smilodon "Diego" will change its model to the famous character from Ice Age.
-- Wooden shacks can often have smilodon husks as loot.
+- Wooden shacks can often have smilodon husks and wooly rhinoceros husks as loot.
 - Penguins will make boats faster.
 - Icelogers will appear in raids.
 - Stardust and rubies can also be used to craft cat armor, that will protect cats, give better gifts, and repels creepers and phantoms from further away.
@@ -176,6 +179,9 @@ Items:
 - Smilodon Egg
 - Droopy Dragon Egg
 - Droopy Likes Your Face Music Disc
+- Wooly Rhinoceros Husk
+- Wooly Rhinoceros DNA
+- Wooly Rhinoceros Egg
 - Yeti Fur
 - Insulated Chainmail Helmet
 - Insulated Chainmail Chestplate
@@ -241,6 +247,8 @@ Items:
 - Manta Ray Spawn Egg
 - Slithering Cat Spawn Egg
 - Droopy Dragon Spawn Egg
+- Somniworm Spawn Egg
+- Wooly Rhinoceros Spawn Egg
 
 Foods:
 - Maple Syrup
