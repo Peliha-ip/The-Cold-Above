@@ -234,6 +234,7 @@ Items:
 - Reindeer Spawn Egg
 - Moose Spawn Egg
 - Manta Ray Spawn Egg
+- Slithering Cat Spawn Egg
 
 Foods:
 - Maple Syrup
