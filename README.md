@@ -2,39 +2,40 @@
 What does space + ice make? The Cold Above, a mod that is both frosty and cosmic. This mod also brings back the penguin from the 2023 mob vote and the iceologer from the 2020 mob vote. One more thing, some cosmic dimensions can lead you to places you might recognize.
 
 Mobs: 
-- Leopard Seals
-- Penguins
-- Iceologers
-- Beavers
-- Gloops
-- Tangleds
-- Capricorns
-- Space Whales
-- Flatworms (cosmic and sea variants)
-- Peacock Spiders
-- Frostbittens
-- Yetis
-- Smilodons
+- Leopard Seal
+- Penguin
+- Iceologer
+- Beaver
+- Gloop
+- Tangled
+- Capricorn
+- Space Whale
+- Flatworm (cosmic and sea variants)
+- Peacock Spider
+- Frostbitten
+- Yeti
+- Smilodon
 - Moose
 - Reindeer
-- Yaks
-- Snow Leopards
-- Narwhals
-- Belugas
-- Orcas
-- Elephant Seals
+- Yak
+- Snow Leopard
+- Narwhal
+- Beluga
+- Orca
+- Elephant Seal
 - Phlox Titan (Invulnerable)
 - Crocus Titan (Invulnerable)
-- Manta Rays (Cosmic in space or end, fire in the nether, and normal in overworld)
-- Slithering Cats
-- Droopy Dragons
+- Manta Ray (Cosmic in space or end, fire in the nether, and normal in overworld)
+- Slithering Cat
+- Droopy Dragon
 - Somniworms
-- Woolly Rhinoceroses
-- Blobs (blue, pink, green, red, white, and black)
-- Bloops
+- Woolly Rhinoceros
+- Blob (blue, pink, green, red, white, and black)
+- Bloop
 - Alien Fish
-- Alien Claws
-- Alien Shrews
+- Alien Claw
+- Alien Shrew
+- Hexacron
 
 Structures:
 - Observatory
@@ -169,6 +170,7 @@ Features:
 - Droopy dragons can spawn on some cosmic dimensions or its egg can either be obtained from comets or bartered by aliens. Right clicking on a droopy dragon will give the player the unused Droopy Likes Your Face music disc.
 - Snow golems can now have different faces and can even be equipped with carrots or golden carrots.
 - Woolly rhinoceroses can be dyed in any color, they also yield more wool than sheep, but they're neutral mobs.
+- The Moon regenerates every time the player exits the Moon dimension.
 
 Items:
 - Maple Boat
@@ -263,18 +265,19 @@ Items:
 - Alien Claw Spawn Egg
 - Alien Shrew Spawn Egg
 - Bloop Spawn Egg
+- Hexacron Spawn Egg
 
 Foods:
 - Maple Syrup
-- Maple Taffies
-- Beaver Tails
-- Pancakes
-- Crepes
-- Waffles
-- Mints
+- Maple Taffy
+- Beaver Tail
+- Pancake
+- Crepe
+- Waffle
+- Mint
 - Hot Milk
 - Hot Chocolate
-- Donuts
+- Donut
 - Raw Chevon
 - Cooked Chevon
 - Goat Milk
@@ -295,3 +298,4 @@ Advancements:
 - Moon Landing Wasn't Fake (Land on the Moon)
 - Less Alien (Smelt goo into a slimeball)
 - Unicorn With Thick Wool (Revive a woolly rhinoceros)
+- Still an Icequake (Encounter a bloop)
