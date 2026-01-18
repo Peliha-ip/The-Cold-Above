@@ -144,6 +144,7 @@ Blocks
 - Maple Leaf
 - Woolly Rhinoceros Reviver
 - Goo Block
+- Gooey Piston
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, or alien shrews, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
