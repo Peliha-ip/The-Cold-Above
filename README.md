@@ -44,6 +44,7 @@ Structures:
 - Lunar Base
 - Huge Crocus
 - Huge Phlox
+- Christmas Tree
 
 Dimensions:
 - Crocus
@@ -173,6 +174,7 @@ Features:
 - Woolly rhinoceroses can be dyed in any color, they also yield more wool than sheep, but they're neutral mobs.
 - The Moon regenerates every time the player exits the Moon dimension.
 - Every 5-10 minutes, sharks would drop a shark tooth.
+- Goo blocks and gooey pistons can move every block except command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate.
 
 Items:
 - Maple Boat
@@ -303,3 +305,4 @@ Advancements:
 - Less Alien (Smelt goo into a slimeball)
 - Unicorn With Thick Wool (Revive a woolly rhinoceros)
 - Still an Icequake (Encounter a bloop)
+- Did The Obsidian Just Move (Move an obsidian block with a gooey piston or a goo block connected to a piston)
