@@ -28,7 +28,7 @@ Mobs:
 - Manta Ray (Cosmic in space or end, fire in the nether, and normal in overworld)
 - Slithering Cat
 - Droopy Dragon
-- Somniworms
+- Somniworm
 - Woolly Rhinoceros
 - Blob (blue, pink, green, red, white, and black)
 - Bloop
