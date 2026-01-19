@@ -373,6 +373,8 @@ Items:
 - Bookworm Spawn Egg
 - Orbel Spawn Egg
 - Crowned Spawn Egg
+- Crystal Fox Spawn Egg
+- Starballoon Spawn Egg
 
 Foods:
 - Maple Syrup
