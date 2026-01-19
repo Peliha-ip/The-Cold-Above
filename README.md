@@ -59,6 +59,7 @@ Dimensions:
 - Storybook
 - Moon
 - Mars
+- Gemina
 
 Blocks
 - Maple Wood
@@ -126,6 +127,21 @@ Blocks
 - Stripped Xenoowood Log
 - Xenoowood Shelf
 - Xenoowood Sapling
+- Gemina Ruby Ore
+- Gemina Sapphire Ore
+- Gemina Opal Ore
+- Gemina Zircon Ore
+- Gemina Emerald Ore
+- Gemina Amethyst Ore
+- Gemina Quartz Ore
+- Gemina Redstone Ore
+- Gemina Coal Ore
+- Gemina Gold Ore
+- Gemina Diamond Ore
+- Gemina Copper Ore
+- Gemina Iron Ore
+- Gemina Lapis Ore
+- Gemina Netherite Ore
 - Crocus
 - Phlox
 - Asteroid Stone
@@ -250,6 +266,9 @@ Items:
 - Xenoowood Boat with Chest
 - Stardust
 - Ruby
+- Sapphire
+- Opal
+- Zircon
 - Frost Armor Trim
 - Cosmos Armor Trim
 - Lunar Banner Pattern
