@@ -40,6 +40,7 @@ Mobs:
 - Anglerfish
 - Fuzzy Worm
 - Stone Chicken
+- Hippie
 
 Structures:
 - Observatory
@@ -76,6 +77,7 @@ Blocks
 - Maple Sign
 - Hanging Maple Sign
 - Maple Shelf
+- Maple Sapling
 - Fir Wood
 - Fir Planks
 - Fir Door
@@ -93,6 +95,36 @@ Blocks
 - Fir Sign
 - Hanging Fir Sign
 - Fir Shelf
+- Fir Sapling
+- Stellarwood Wood
+- Stellarwood Planks
+- Stellarwood Log
+- Stellarwood Door
+- Stellarwood Button
+- Stellarwood Fence
+- Stellarwood Fence Gate
+- Stellarwood Trapdoor
+- Stellarwood Leaves
+- Stripped Stellarwood Wood
+- Stripped Stellarwood Log
+- Stellarwood Sign
+- Hanging Stellarwood Sign
+- Stellarwood Shelf
+- Stellarwood Sapling
+- Xenoowood Wood
+- Xenoowood Planks
+- Xenoowood Log
+- Xenoowood Door
+- Xenoowood Button
+- Xenoowood Pressure Plate
+- Xenoowood Fence
+- Xenoowood Fence Gate
+- Xenoowood Trapdoor
+- Xenoowood Leaves
+- Stripped Xenoowood Wood
+- Stripped Xenoowood Log
+- Xenoowood Shelf
+- Xenoowood Sapling
 - Crocus
 - Phlox
 - Asteroid Stone
@@ -175,7 +207,7 @@ Blocks
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, or alien shrews, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
-- Rubies are used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, fuzzy worms, stone chickens, and tangleds. Aliens can barter rubies for special loot.
+- Rubies are used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, fuzzy worms, stone chickens, hippies, and tangleds. Aliens can barter rubies for special loot.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, what allows the player to travel in space.
@@ -204,12 +236,17 @@ Features:
 - Goo blocks and gooey pistons can move every block except command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate.
 - Yetis can also spawn in the Mars dimension.
 - Stone chickens will drop Mars stone every 5-10 seconds.
+- Fuzzy worms love to hang out in stellarwood and xenoowood trees.
 
 Items:
 - Maple Boat
 - Maple Boat With Chest
 - Fir Boat
 - Fir Boat With Chest
+- Stellarwood Boat
+- Stellarwood Boat With Chest
+- Xenoowood Boat
+- Xenoowood Boat with Chest
 - Stardust
 - Rubies
 - Frost Armor Trim
@@ -304,6 +341,7 @@ Items:
 - Anglerfish Spawn Egg
 - Fuzzy Worm Spawn Egg
 - Stone Chicken Spawn Egg
+- Hippie Spawn Egg
 
 Foods:
 - Maple Syrup
