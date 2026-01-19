@@ -46,6 +46,8 @@ Mobs:
 - Bookworm
 - Orbel
 - Crowned
+- Crystal Fox
+- Starballoon
 
 Structures:
 - Observatory
@@ -226,7 +228,7 @@ Blocks
 - Mars Stone Tiles Wall
 
 Features:
-- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, alien shrews, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, alien shrews, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
 - Rubies are used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, and crowneds, and tangleds. Aliens can barter rubies for special loot.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
