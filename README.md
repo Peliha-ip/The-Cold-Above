@@ -205,9 +205,9 @@ Blocks
 - Mars Stone Tiles Wall
 
 Features:
-- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, or alien shrews, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, alien shrews, hippies, stone chickens, fuzzy worms, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
-- Rubies are used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, fuzzy worms, stone chickens, hippies, and tangleds. Aliens can barter rubies for special loot.
+- Rubies are used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, hippies, and tangleds. Aliens can barter rubies for special loot.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, what allows the player to travel in space.
@@ -248,7 +248,7 @@ Items:
 - Xenoowood Boat
 - Xenoowood Boat with Chest
 - Stardust
-- Rubies
+- Ruby
 - Frost Armor Trim
 - Cosmos Armor Trim
 - Lunar Banner Pattern
@@ -376,3 +376,4 @@ Advancements:
 - Unicorn With Thick Wool (Revive a woolly rhinoceros)
 - Still an Icequake (Encounter a bloop)
 - Did The Obsidian Just Move (Move an obsidian block with a gooey piston or a goo block connected to a piston)
+- There's a Worm in My Tree (Encounter a fuzzy worm inside a tree)
