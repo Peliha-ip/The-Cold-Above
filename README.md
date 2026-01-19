@@ -42,6 +42,8 @@ Mobs:
 - Stone Chicken
 - Hippie
 - Cortex
+- Déjà-vu
+- Bookworm
 
 Structures:
 - Observatory
@@ -363,6 +365,8 @@ Items:
 - Stone Chicken Spawn Egg
 - Hippie Spawn Egg
 - Cortex Spawn Egg
+- Déjà-vu Spawn Egg
+- Bookworm Spawn Egg
 
 Foods:
 - Maple Syrup
