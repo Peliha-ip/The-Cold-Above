@@ -44,6 +44,7 @@ Mobs:
 - Cortex
 - Déjà-vu
 - Bookworm
+- Orbel
 
 Structures:
 - Observatory
@@ -367,6 +368,7 @@ Items:
 - Cortex Spawn Egg
 - Déjà-vu Spawn Egg
 - Bookworm Spawn Egg
+- Orbel Spawn Egg
 
 Foods:
 - Maple Syrup
