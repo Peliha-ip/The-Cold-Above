@@ -49,6 +49,7 @@ Mobs:
 - Crystal Fox
 - Starballoon
 - Cosmollusk
+- Tentrix
 
 Structures:
 - Observatory
@@ -266,9 +267,9 @@ Blocks
 - Gemina Stone Tiles Wall
 
 Features:
-- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, alien shrews, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
+- Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, alien shrews, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, moon stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
-- Rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz can be used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, crowneds, cosmollusks, and tangleds. Aliens can barter rubies, sapphires, zircons, opals, emeralds, amethyst shards, or quartz for special loot. The loot might vary according to what was given to an alien. Rubies, sapphires, opals, and zircons will give better loot than emeralds, amethyst shards, or quartz.
+- Rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz can be used as currency with aliens like gloops, slithering cats, somniworms, blobs, alien claws, alien shrews, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, crowneds, cosmollusks, tentrixes, and tangleds. Aliens can barter rubies, sapphires, zircons, opals, emeralds, amethyst shards, or quartz for special loot. The loot might vary according to what was given to an alien. Rubies, sapphires, opals, and zircons will give better loot than emeralds, amethyst shards, or quartz.
 - Ice portals are now possible and each portal have the possibility to send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, what allows the player to travel in space.
@@ -418,6 +419,7 @@ Items:
 - Crystal Fox Spawn Egg
 - Starballoon Spawn Egg
 - Cosmollusk Spawn Egg
+- Tentrix  Spawn Egg
 
 Foods:
 - Maple Syrup
