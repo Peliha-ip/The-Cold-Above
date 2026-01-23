@@ -306,6 +306,7 @@ Features:
 - Stone chickens will drop Mars stone every 5-10 seconds.
 - Fuzzy worms love to hang out in stellarwood and xenoowood trees.
 - Snow golems can be created with carved melons, granting you the melon snow golem, just a visual variant of the existing snow golem.
+- Bone mealing a phlox or a crocus will turn it into the huge variant of the flower.
 
 Items:
 - Maple Boat
