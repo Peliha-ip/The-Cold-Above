@@ -394,6 +394,10 @@ Items:
 - Goo
 - Bucket of Alien Fish
 - Shark Tooth
+- Stellarwood Charango (if Shellfish Reigns is installed)
+- Xenoowood Charango (if Shellfish Reigns is installed)
+- Phlox Charango (if Shellfish Reigns is installed)
+- Crocus Charango (if Shellfish Reigns is installed)
 - Penguin Spawn Egg
 - Iceloger Spawn Egg
 - Leopard Seal Spawn Egg
