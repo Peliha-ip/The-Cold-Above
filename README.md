@@ -60,6 +60,7 @@ Structures:
 - Christmas Tree
 - Floating Rock
 - Martian Face
+- Subglacial Lake
 
 Dimensions:
 - Crocus
@@ -68,6 +69,10 @@ Dimensions:
 - Moon
 - Mars
 - Gemina
+
+Biomes:
+- Ice Sheet
+- Frozen Cave
 
 Blocks
 - Maple Wood
