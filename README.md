@@ -376,9 +376,21 @@ Items:
 - Insulated Iron Nautilus Armor
 - Insulated Diamond Nautilus Armor
 - Insulated Netherite Nautilus Armor
-- Cat Armor
-- Insulated Cat Armor
-- Iceologer Spell
+- Ruby Cat Armor
+- Sapphire Cat Armor
+- Zircon Cat Armor
+- Opal Cat Armor
+- Emerald Cat Armor
+- Amethyst Cat Armor
+- Quartz Cat Armor
+- Insulated Ruby Cat Armor
+- Insulated Sapphire Cat Armor
+- Insulated Zircon Cat Armor
+- Insulated Opal Cat Armor
+- Insulated Emerald Cat Armor
+- Insulated Amethyst Cat Armor
+- Insulated Quartz Cat Armor
+- Iceologer Staff
 - Goo
 - Bucket of Alien Fish
 - Shark Tooth
