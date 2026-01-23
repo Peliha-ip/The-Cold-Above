@@ -285,7 +285,7 @@ Features:
 - Wooden shacks can often have smilodon husks and woolly rhinoceros husks as loot.
 - Penguins will make boats faster.
 - Icelogers will appear in raids.
-- Stardust and rubies can also be used to craft cat armor, that will protect cats, give better gifts, and repels creepers and phantoms from further away.
+- Stardust and rubies, sapphires, opals, zircons, emeralds, amethyst shards, or quartz can also be used to craft cat armor, that will protect cats, give better gifts, and repels creepers and phantoms from further away.
 - In the storybook dimension, special blocks composed this dimension. None of the blocks that naturally generate in this dimension can be broken.
 - At the (0,0) coordinates of the Phlox and Crocus dimension awaits the Phlox Titan and the Crocus Titan respectively, both are invulnerable.
 - Manta rays spawned in space or the end become cosmic rays. Manta rays spawned in the nether become fire rays. Manta rays spawned in the overworld will just be normal manta rays. Normal manta rays can suffocate if out of the water for too long, except if they're in the nether, in that case, they turn into fire rays.
