@@ -299,7 +299,6 @@ Features:
 - Snow golems can now have different faces and can even be equipped with carrots or golden carrots.
 - Woolly rhinoceroses can be dyed in any color, they also yield more wool than sheep, but they're neutral mobs.
 - The Moon regenerates every time the player exits the Moon dimension.
-- Every 5-10 minutes, sharks would drop a shark tooth.
 - Goo blocks and gooey pistons can move every block except command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate.
 - Yetis can also spawn in the Mars dimension.
 - Stone chickens will drop Mars stone every 5-10 seconds.
