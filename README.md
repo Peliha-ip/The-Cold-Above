@@ -36,7 +36,6 @@ Mobs:
 - Alien Claw
 - Alien Shrew
 - Hexacron
-- Shark
 - Anglerfish
 - Fuzzy Worm
 - Stone Chicken
@@ -393,7 +392,6 @@ Items:
 - Iceologer Staff
 - Goo
 - Bucket of Alien Fish
-- Shark Tooth
 - Stellarwood Charango (if Shellfish Reigns is installed)
 - Xenoowood Charango (if Shellfish Reigns is installed)
 - Phlox Charango (if Shellfish Reigns is installed)
@@ -430,7 +428,6 @@ Items:
 - Alien Shrew Spawn Egg
 - Bloop Spawn Egg
 - Hexacron Spawn Egg
-- Shark Spawn Egg
 - Anglerfish Spawn Egg
 - Fuzzy Worm Spawn Egg
 - Stone Chicken Spawn Egg
