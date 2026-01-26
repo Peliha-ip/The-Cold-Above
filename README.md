@@ -2,14 +2,14 @@
 What does space + ice make? The Cold Above, a mod that is both frosty and cosmic. This mod also brings back the penguin from the 2023 mob vote and the iceologer from the 2020 mob vote. One more thing, some cosmic dimensions can lead you to places you might recognize.
 
 Mobs: 
-- Leopard Seal
+- Leopard seal
 - Penguin
 - Iceologer
 - Beaver
 - Gloop
 - Tangled
 - Capricorn
-- Space Whale
+- Space whale
 - Flatworm (cosmic and sea variants)
 - Peacock Spider
 - Frostbitten
@@ -18,48 +18,49 @@ Mobs:
 - Moose
 - Reindeer
 - Yak
-- Snow Leopard
+- Snow leopard
 - Narwhal
 - Beluga
 - Orca
-- Elephant Seal
-- Phlox Titan (Invulnerable)
-- Crocus Titan (Invulnerable)
-- Manta Ray (Cosmic in space or end, fire in the nether, and normal in overworld)
-- Slithering Cat
-- Droopy Dragon
+- Elephant seal
+- Phlox titan (Invulnerable)
+- Crocus titan (Invulnerable)
+- Manta ray (Cosmic in space or end, fire in the nether, and normal in overworld)
+- Slithering cat
+- Droopy dragon
 - Somniworm
-- Woolly Rhinoceros
+- Woolly rhinoceros
 - Blob (blue, pink, green, red, white, and black)
 - Bloop
-- Alien Fish
-- Alien Claw
-- Alien Shrew
+- Alien fish
+- Alien claw
+- Alien shrew
 - Hexacron
 - Anglerfish
-- Fuzzy Worm
-- Stone Chicken
+- Fuzzy worm
+- Stone chicken
 - Hippie
 - Cortex
 - Déjà-vu
 - Bookworm
 - Orbel
 - Crowned
-- Crystal Fox
+- Crystal fox
 - Starballoon
 - Cosmollusk
 - Tentrix
 
 Structures:
 - Observatory
-- Wooden Shack
-- Lunar Base
-- Huge Crocus
-- Huge Phlox
-- Christmas Tree
-- Floating Rock
-- Martian Face
-- Subglacial Lake
+- Wooden shack
+- Lunar base
+- Lunar rover
+- Huge crocus
+- Huge phlox
+- Christmas tree
+- Floating rock
+- Martian face
+- Subglacial lake
 
 Dimensions:
 - Crocus
@@ -70,28 +71,28 @@ Dimensions:
 - Gemina
 
 Biomes:
-- Ice Sheet
-- Frozen Cave
+- Ice sheet
+- Frozen cave
 
 Blocks
-- Maple Wood
-- Maple Planks
-- Maple Door
-- Maple Fence
-- Maple Fence Gate
-- Maple Button
-- Maple Pressure Plate
-- Maple Trapdoor
-- Maple Log
-- Maple Leaves
-- Stripped Maple Log
-- Stripped Maple Wood
-- Maple Slab
-- Maple Stairs
-- Maple Sign
-- Hanging Maple Sign
-- Maple Shelf
-- Maple Sapling
+- Maple wood
+- Maple planks
+- Maple door
+- Maple fence
+- Maple fence gate
+- Maple button
+- Maple pressure plate
+- Maple trapdoor
+- Maple log
+- Maple leaves
+- Stripped maple log
+- Stripped maple wood
+- Maple slab
+- Maple stairs
+- Maple sign
+- Hanging maple sign
+- Maple shelf
+- Maple sapling
 - Fir Wood
 - Fir Planks
 - Fir Door
