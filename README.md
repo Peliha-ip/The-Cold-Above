@@ -11,7 +11,7 @@ Mobs:
 - Capricorn
 - Space whale
 - Flatworm (cosmic and sea variants)
-- Peacock Spider
+- Peacock spider
 - Frostbitten
 - Yeti
 - Smilodon
@@ -93,184 +93,184 @@ Blocks
 - Hanging maple sign
 - Maple shelf
 - Maple sapling
-- Fir Wood
-- Fir Planks
-- Fir Door
-- Fir Fence
-- Fir Fence Gate
-- Fir Button
-- Fir Pressure Plate
-- Fir Trapdoor
-- Fir Log
-- Fir Leaves
-- Stripped Fir Log
-- Stripped Fir Wood
-- Fir Slab
-- Fir Stairs
-- Fir Sign
-- Hanging Fir Sign
-- Fir Shelf
-- Fir Sapling
-- Stellarwood Wood
-- Stellarwood Planks
-- Stellarwood Log
-- Stellarwood Door
-- Stellarwood Button
-- Stellarwood Fence
-- Stellarwood Fence Gate
-- Stellarwood Trapdoor
-- Stellarwood Leaves
-- Stripped Stellarwood Wood
-- Stripped Stellarwood Log
-- Stellarwood Sign
-- Hanging Stellarwood Sign
-- Stellarwood Shelf
-- Stellarwood Sapling
-- Xenoowood Wood
-- Xenoowood Planks
-- Xenoowood Log
-- Xenoowood Door
-- Xenoowood Button
-- Xenoowood Pressure Plate
-- Xenoowood Fence
-- Xenoowood Fence Gate
-- Xenoowood Trapdoor
-- Xenoowood Leaves
-- Stripped Xenoowood Wood
-- Stripped Xenoowood Log
-- Xenoowood Shelf
-- Xenoowood Sapling
-- Crocus Planks
-- Crocus Door
-- Crocus Button
-- Crocus Fence
-- Crocus Fence Gate
-- Crocus Pressure Plate
-- Crocus Trapdoor
-- Phlox Planks
-- Phlox Door
-- Phlox Button
-- Phlox Fence
-- Phlox Fence Gate
-- Phlox Pressure Plate
-- Phlox Trapdoor
-- Gemina Ruby Ore
-- Gemina Sapphire Ore
-- Gemina Opal Ore
-- Gemina Zircon Ore
-- Gemina Emerald Ore
-- Gemina Amethyst Ore
-- Gemina Quartz Ore
-- Gemina Redstone Ore
-- Gemina Coal Ore
-- Gemina Gold Ore
-- Gemina Diamond Ore
-- Gemina Copper Ore
-- Gemina Iron Ore
-- Gemina Lapis Ore
-- Gemina Netherite Ore
+- Fir wood
+- Fir planks
+- Fir door
+- Fir fence
+- Fir fence gate
+- Fir button
+- Fir pressure plate
+- Fir trapdoor
+- Fir log
+- Fir leaves
+- Stripped fir log
+- Stripped fir wood
+- Fir slab
+- Fir stairs
+- Fir sign
+- Hanging fir sign
+- Fir shelf
+- Fir sapling
+- Stellarwood wood
+- Stellarwood planks
+- Stellarwood log
+- Stellarwood door
+- Stellarwood button
+- Stellarwood fence
+- Stellarwood fence hate
+- Stellarwood trapdoor
+- Stellarwood leaves
+- Stripped stellarwood wood
+- Stripped stellarwood log
+- Stellarwood sign
+- Hanging stellarwood sign
+- Stellarwood shelf
+- Stellarwood sapling
+- Xenoowood wood
+- Xenoowood planks
+- Xenoowood log
+- Xenoowood door
+- Xenoowood button
+- Xenoowood pressure plate
+- Xenoowood fence
+- Xenoowood fence gate
+- Xenoowood trapdoor
+- Xenoowood leaves
+- Stripped xenoowood wood
+- Stripped xenoowood log
+- Xenoowood shelf
+- Xenoowood sapling
+- Crocus planks
+- Crocus door
+- Crocus button
+- Crocus fence
+- Crocus fence gate
+- Crocus pressure plate
+- Crocus trapdoor
+- Phlox planks
+- Phlox door
+- Phlox button
+- Phlox fence
+- Phlox fence gate
+- Phlox pressure plate
+- Phlox trapdoor
+- Gemina ruby ore
+- Gemina sapphire ore
+- Gemina opal ore
+- Gemina zircon ore
+- Gemina emerald ore
+- Gemina amethyst ore
+- Gemina quartz ore
+- Gemina redstone ore
+- Gemina coal ore
+- Gemina gold ore
+- Gemina diamond ore
+- Gemina copper ore
+- Gemina iron ore
+- Gemina lapis ore
+- Gemina netherite ore
 - Crocus
 - Phlox
-- Asteroid Stone
-- Asteroid Stone Slab
-- Asteroid Stone Stairs
-- Asteroid Stone Wall
-- Smooth Asteroid Stone
-- Smooth Asteroid Stone Slab
-- Smooth Asteroid Stone Stairs
-- Smooth Asteroid Stone Wall
-- Polished Asteroid Stone
-- Polished Asteroid Stone Slab
-- Polished Asteroid Stone Stairs
-- Polished Asteroid Stone Wall
-- Asteroid Stone Bricks
-- Asteroid Stone Bricks Slab
-- Asteroid Stone Bricks Stairs
-- Asteroid Stone Bricks Wall
-- Asteroid Stone Tiles
-- Asteroid Stone Tiles Slab
-- Asteroid Stone Tiles Stairs
-- Asteroid Stone Tiles Wall
-- Ruby Block
-- Sapphire Block
-- Zircon Block
-- Opal Block
-- Stardust Block
-- Stardust Clumps
-- Crocus Stem
-- Crocus Petals
-- Phlox Stem
-- Phlox Petals
-- Moon Stone
-- Moon Stone Slab
-- Moon Stone Stairs
-- Moon Stone Wall
-- Polished Moon Stone
-- Polished Moon Stone Slab
-- Polished Moon Stone Stairs
-- Polished Moon Stone Wall
-- Smooth Moon Stone
-- Smooth Moon Stone Slab
-- Smooth Moon Stone Stairs
-- Smooth Moon Stone Wall
-- Moon Stone Bricks
-- Moon Stone Bricks Slab
-- Moon Stone Bricks Stairs
-- Moon Stone Bricks Wall
-- Moon Stone Tiles
-- Moon Stone Tiles Slab
-- Moon Stone Tiles Stairs
-- Moon Stone Tiles Wall
-- Maple Syrup Snow
-- Smilodon Reviver
-- Reinforced Grass Block
-- Reinforced Wood
-- Reinforced Leaves
-- Maple Leaf
-- Woolly Rhinoceros Reviver
-- Goo Block
-- Gooey Piston
-- Mars Stone
-- Mars Stone Slab
-- Mars Stone Stairs
-- Mars Stone Wall
-- Polished Mars Stone
-- Polished Mars Stone Slab
-- Polished Mars Stone Stairs
-- Polished Mars Stone Wall
-- Smooth Mars Stone
-- Smooth Mars Stone Slab
-- Smooth Mars Stone Stairs
-- Smooth Mars Stone Wall
-- Mars Stone Bricks
-- Mars Stone Bricks Slab
-- Mars Stone Bricks Stairs
-- Mars Stone Bricks Wall
-- Mars Stone Tiles
-- Mars Stone Tiles Slab
-- Mars Stone Tiles Stairs
-- Mars Stone Tiles Wall
-- Gemina Stone
-- Gemina Stone Slab
-- Gemina Stone Stairs
-- Gemina Stone Wall
-- Polished Gemina Stone
-- Polished Gemina Stone Slab
-- Polished Gemina Stone Stairs
-- Polished Gemina Stone Wall
-- Smooth Gemina Stone
-- Smooth Gemina Stone Slab
-- Smooth Gemina Stone Stairs
-- Smooth Gemina Stone Wall
-- Gemina Stone Bricks
-- Gemina Stone Bricks Slab
-- Gemina Stone Bricks Stairs
-- Gemina Stone Bricks Wall
-- Gemina Stone Tiles
-- Gemina Stone Tiles Slab
-- Gemina Stone Tiles Stairs
-- Gemina Stone Tiles Wall
-- Carved Melon
+- Asteroid stone
+- Asteroid stone slab
+- Asteroid stone stairs
+- Asteroid stone wall
+- Smooth asteroid stone
+- Smooth asteroid stone slab
+- Smooth asteroid stone stairs
+- Smooth asteroid stone wall
+- Polished asteroid stone
+- Polished asteroid stone slab
+- Polished asteroid stone stairs
+- Polished asteroid stone wall
+- Asteroid stone bricks
+- Asteroid stone bricks slab
+- Asteroid stone bricks stairs
+- Asteroid stone bricks wall
+- Asteroid stone tiles
+- Asteroid stone tiles slab
+- Asteroid stone tiles stairs
+- Asteroid stone tiles wall
+- Ruby block
+- Sapphire block
+- Zircon block
+- Opal block
+- Stardust block
+- Stardust clumps
+- Crocus stem
+- Crocus petals
+- Phlox stem
+- Phlox petals
+- Moon stone
+- Moon stone slab
+- Moon stone stairs
+- Moon stone wall
+- Polished moon stone
+- Polished moon stone slab
+- Polished moon stone stairs
+- Polished moon stone wall
+- Smooth moon stone
+- Smooth moon stone slab
+- Smooth moon stone stairs
+- Smooth moon stone wall
+- Moon stone bricks
+- Moon stone bricks slab
+- Moon stone bricks stairs
+- Moon stone bricks wall
+- Moon stone tiles
+- Moon stone tiles slab
+- Moon stone tiles stairs
+- Moon stone tiles wall
+- Maple syrup snow
+- Smilodon reviver
+- Reinforced grass block
+- Reinforced wood
+- Reinforced leaves
+- Maple leaf
+- Woolly rhinoceros reviver
+- Goo block
+- Gooey piston
+- Mars stone
+- Mars stone slab
+- Mars stone stairs
+- Mars stone wall
+- Polished mars stone
+- Polished mars stone slab
+- Polished mars stone stairs
+- Polished mars stone wall
+- Smooth mars stone
+- Smooth mars stone slab
+- Smooth mars stone stairs
+- Smooth mars stone wall
+- Mars stone bricks
+- Mars stone bricks slab
+- Mars stone bricks stairs
+- Mars stone bricks wall
+- Mars stone tiles
+- Mars stone tiles slab
+- Mars stone tiles stairs
+- Mars stone tiles wall
+- Gemina stone
+- Gemina stone slab
+- Gemina stone stairs
+- Gemina stone wall
+- Polished gemina stone
+- Polished gemina stone slab
+- Polished gemina stone stairs
+- Polished gemina stone wall
+- Smooth gemina stone
+- Smooth gemina stone slab
+- Smooth gemina stone stairs
+- Smooth gemina stone wall
+- Gemina stone bricks
+- Gemina stone bricks slab
+- Gemina stone bricks stairs
+- Gemina stone bricks wall
+- Gemina stone tiles
+- Gemina stone tiles slab
+- Gemina stone tiles stairs
+- Gemina stone tiles wall
+- Carved melon
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, alien claws, alien shrews, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -308,159 +308,160 @@ Features:
 - Bone mealing a phlox or a crocus will turn it into the huge variant of the flower.
 
 Items:
-- Maple Boat
-- Maple Boat With Chest
-- Fir Boat
-- Fir Boat With Chest
-- Stellarwood Boat
-- Stellarwood Boat With Chest
-- Xenoowood Boat
-- Xenoowood Boat with Chest
-- Crocus Raft
-- Crocus Raft with Chest
-- Phlox Raft
-- Phlox Raft with Chest
+- Maple boat
+- Maple boat with chest
+- Fir boat
+- Fir boat with chest
+- Stellarwood boat
+- Stellarwood boat with chest
+- Xenoowood boat
+- Xenoowood boat with chest
+- Crocus raft
+- Crocus raft with chest
+- Phlox raft
+- Phlox raft with chest
 - Stardust
 - Ruby
 - Sapphire
 - Opal
 - Zircon
-- Frost Armor Trim
-- Cosmos Armor Trim
-- Lunar Banner Pattern
-- Canadian Banner Pattern
-- Smilodon Husk
+- Frost armor trim
+- Cosmos armor trim
+- Lunar banner pattern
+- Canadian banner pattern
+- Smilodon husk
 - Smilodon DNA
-- Smilodon Egg
-- Droopy Dragon Egg
+- Smilodon egg
+- Droopy dragon egg
 - Droopy Likes Your Face Music Disc
-- Woolly Rhinoceros Husk
-- Woolly Rhinoceros DNA
-- Woolly Rhinoceros Egg
-- Yeti Fur
-- Insulated Chainmail Helmet
-- Insulated Chainmail Chestplate
-- Insulated Chainmail Leggings
-- Insulated Chainmail Boots
-- Insulated Copper Helmet
-- Insulated Copper Chestplate
-- Insulated Copper Leggings
-- Insulated Copper Boots
-- Insulated Golden Helmet
-- Insulated Golden Chestplate
-- Insulated Golden Leggings
-- Insulated Golden Boots
-- Insulated Iron Helmet
-- Insulated Iron Chestplate
-- Insulated Iron Leggings
-- Insulated Iron Boots
-- Insulated Diamond Helmet
-- Insulated Diamond Chestplate
-- Insulated Diamond Leggings
-- Insulated Diamond Boots
-- Insulated Netherite Helmet
-- Insulated Netherite Chestplate
-- Insulated Netherite Leggings
-- Insulated Netherite Boots
-- Insulated Elytra
-- Insulated Turtle Shell Helmet
-- Insulated Wolf Armor
-- Insulated Iron Horse Armor
-- Insulated Golden Horse Armor
-- Insulated Diamond Horse Armor
-- Insulated Netherite Horse Armor
-- Insulated Copper Horse Armor
-- Insulated Copper Nautilus Armor
-- Insulated Golden Nautilus Armor
-- Insulated Iron Nautilus Armor
-- Insulated Diamond Nautilus Armor
-- Insulated Netherite Nautilus Armor
-- Ruby Cat Armor
-- Sapphire Cat Armor
-- Zircon Cat Armor
-- Opal Cat Armor
-- Emerald Cat Armor
-- Amethyst Cat Armor
-- Quartz Cat Armor
-- Insulated Ruby Cat Armor
-- Insulated Sapphire Cat Armor
-- Insulated Zircon Cat Armor
-- Insulated Opal Cat Armor
-- Insulated Emerald Cat Armor
-- Insulated Amethyst Cat Armor
-- Insulated Quartz Cat Armor
+- Woolly rhinoceros husk
+- Woolly rhinoceros DNA
+- Woolly rhinoceros egg
+- Yeti fur
+- Insulated chainmail helmet
+- Insulated chainmail chestplate
+- Insulated chainmail leggings
+- Insulated chainmail boots
+- Insulated copper helmet
+- Insulated copper chestplate
+- Insulated copper leggings
+- Insulated copper boots
+- Insulated golden helmet
+- Insulated golden chestplate
+- Insulated golden leggings
+- Insulated golden boots
+- Insulated iron helmet
+- Insulated iron chestplate
+- Insulated iron leggings
+- Insulated iron boots
+- Insulated diamond helmet
+- Insulated diamond chestplate
+- Insulated diamond leggings
+- Insulated diamond boots
+- Insulated netherite helmet
+- Insulated netherite chestplate
+- Insulated netherite leggings
+- Insulated netherite boots
+- Insulated elytra
+- Insulated turtle shell helmet
+- Insulated wolf armor
+- Insulated iron horse armor
+- Insulated golden horse armor
+- Insulated diamond horse armor
+- Insulated netherite horse armor
+- Insulated copper horse armor
+- Insulated copper nautilus armor
+- Insulated golden nautilus armor
+- Insulated iron nautilus armor
+- Insulated diamond nautilus armor
+- Insulated netherite nautilus armor
+- Ruby cat armor
+- Sapphire cat armor
+- Zircon cat armor
+- Opal cat armor
+- Emerald cat armor
+- Amethyst cat armor
+- Quartz cat armor
+- Insulated ruby cat armor
+- Insulated sapphire cat armor
+- Insulated zircon cat armor
+- Insulated opal cat armor
+- Insulated emerald cat armor
+- Insulated amethyst cat armor
+- Insulated quartz cat armor
 - Iceologer Staff
 - Goo
-- Bucket of Alien Fish
-- Stellarwood Charango (if Shellfish Reigns is installed)
-- Xenoowood Charango (if Shellfish Reigns is installed)
-- Phlox Charango (if Shellfish Reigns is installed)
-- Crocus Charango (if Shellfish Reigns is installed)
-- Penguin Spawn Egg
-- Iceloger Spawn Egg
-- Leopard Seal Spawn Egg
-- Elephant Seal Spawn Egg
-- Flatworm Spawn Egg
-- Space Whale Spawn Egg
-- Tangled Spawn Egg
-- Gloop Spawn Egg
-- Peacock Spider Spawn Egg
-- Capricorn Spawn Egg
-- Beluga Spawn Egg
-- Orca Spawn Egg
-- Moose Spawn Egg
-- Narwhal Spawn Egg
-- Yeti Spawn Egg
-- Yak Spawn Egg
-- Beaver Spawn Egg
-- Snow Leopard Spawn Egg
-- Frostbitten Spawn Egg
-- Reindeer Spawn Egg
-- Moose Spawn Egg
-- Manta Ray Spawn Egg
-- Slithering Cat Spawn Egg
-- Droopy Dragon Spawn Egg
+- Bucket of alien fish
+- Stellarwood charango (if Shellfish Reigns is installed)
+- Xenoowood charango (if Shellfish Reigns is installed)
+- Phlox charango (if Shellfish Reigns is installed)
+- Crocus charango (if Shellfish Reigns is installed)
+- Penguin spawn egg
+- Iceloger spawn egg
+- Leopard seal spawn egg
+- Elephant seal spawn egg
+- Flatworm spawn egg
+- Space whale spawn egg
+- Tangled spawn egg
+- Gloop spawn egg
+- Peacock spider spawn egg
+- Capricorn spawn egg
+- Beluga spawn egg
+- Orca spawn egg
+- Moose spawn egg
+- Narwhal spawn egg
+- Yeti spawn egg
+- Yak spawn Egg
+- Beaver spawn egg
+- Snow leopard spawn egg
+- Frostbitten spawn egg
+- Reindeer spawn egg
+- Moose spawn egg
+- Manta ray spawn egg
+- Slithering cat spawn egg
+- Droopy dragon spawn egg
 - Somniworm Spawn Egg
-- Woolly Rhinoceros Spawn Egg
-- Blob Spawn Egg
-- Alien Fish Spawn Egg
-- Alien Claw Spawn Egg
-- Alien Shrew Spawn Egg
-- Bloop Spawn Egg
-- Hexacron Spawn Egg
-- Anglerfish Spawn Egg
-- Fuzzy Worm Spawn Egg
-- Stone Chicken Spawn Egg
-- Hippie Spawn Egg
-- Cortex Spawn Egg
-- Déjà-vu Spawn Egg
-- Bookworm Spawn Egg
-- Orbel Spawn Egg
-- Crowned Spawn Egg
-- Crystal Fox Spawn Egg
-- Starballoon Spawn Egg
-- Cosmollusk Spawn Egg
-- Tentrix  Spawn Egg
+- Woolly rhinoceros spawn egg
+- Blob spawn egg
+- Alien fish spawn egg
+- Alien claw spawn egg
+- Alien shrew spawn egg
+- Bloop spawn egg
+- Hexacron spawn egg
+- Anglerfish spawn egg
+- Fuzzy Worm spawn egg
+- Stone chicken spawn egg
+- Hippie spawn egg
+- Cortex spawn egg
+- Déjà-vu spawn egg
+- Bookworm spawn egg
+- Orbel spawn egg
+- Crowned spawn egg
+- Crystal fox spawn egg
+- Starballoon spawn egg
+- Cosmollusk spawn egg
+- Tentrix  spawn egg
 
 Foods:
-- Maple Syrup
-- Maple Taffy
-- Beaver Tail
+- Maple syrup
+- Maple taffy
+- Beaver tail
 - Pancake
 - Crepe
 - Waffle
 - Mint
-- Hot Milk
-- Hot Chocolate
+- Hot milk
+- Hot chocolate
 - Donut
-- Raw Chevon
-- Cooked Chevon
-- Goat Milk
-- Goat Cheese
-- Bacon
+- Raw chevon
+- Cooked chevon
+- Goat milk
+- Goat cheese
+- Raw bacon
+- Cooked bacon
 - Cheese
-- Alien Fish
-- Cooked Alien Fish
+- Alien fish
+- Cooked alien fish
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
