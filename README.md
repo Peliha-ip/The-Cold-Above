@@ -396,6 +396,7 @@ Items:
 - Xenoowood charango (if Shellfish Reigns is installed)
 - Phlox charango (if Shellfish Reigns is installed)
 - Crocus charango (if Shellfish Reigns is installed)
+- Ski
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
