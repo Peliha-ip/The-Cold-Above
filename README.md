@@ -430,7 +430,7 @@ Items:
 - Bloop spawn egg
 - Hexacron spawn egg
 - Anglerfish spawn egg
-- Fuzzy Worm spawn egg
+- Fuzzy worm spawn egg
 - Stone chicken spawn egg
 - Hippie spawn egg
 - Cortex spawn egg
