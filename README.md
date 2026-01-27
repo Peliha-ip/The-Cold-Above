@@ -389,9 +389,9 @@ Items:
 - Insulated emerald cat armor
 - Insulated amethyst cat armor
 - Insulated quartz cat armor
-- Iceologer Staff
+- Iceologer staff
 - Goo
-- Bucket of alien fish
+- Bucket of ichtrix 
 - Stellarwood charango (if Shellfish Reigns is installed)
 - Xenoowood charango (if Shellfish Reigns is installed)
 - Phlox charango (if Shellfish Reigns is installed)
