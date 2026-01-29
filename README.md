@@ -80,6 +80,10 @@ Dimensions:
 - Gemina
 - Dream
 - Nightmare
+- Stratosphere
+- Mesosphere
+- Thermosphere
+- Exosphere
 
 Biomes:
 - Ice sheet
