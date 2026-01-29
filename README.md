@@ -324,6 +324,8 @@ Features:
 - Fuzzy worms love to hang out in stellarwood and xenoowood trees.
 - Snow golems can be created with carved melons, granting you the melon snow golem, just a visual variant of the existing snow golem.
 - Bone mealing a phlox or a crocus will turn it into the huge variant of the flower.
+- To venture the abyss, lights that can be place underwater would be required as the abyss are 100% pitch black with a few glowing mobs. The pressure is also a thing to take into consideration. Enchanting your armor with pressure standing will make it easier for you to stand the pressure. Having one piece of armor enchanted with pressure standing will only reduce pressure damage of 25%, two for 50%, three for 75%, and all for immunity to pressure damage.
+- Pressure standing is also great for dimensions with different pressure levels to the surface.
 
 Items:
 - Maple boat
@@ -504,6 +506,9 @@ Foods:
 - Cheese
 - Ichtrix
 - Cooked Ichtrix
+
+Enchantments:
+- Pressure standing
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
