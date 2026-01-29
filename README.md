@@ -58,6 +58,7 @@ Mobs:
 - Vampire squid
 - Dragonfish
 - Deep sea isopod
+- Siphonophore
 
 Structures:
 - Observatory
@@ -479,6 +480,7 @@ Items:
 - Dragonfish spawn egg
 - Vampire squid spawn egg
 - Deep sea isopod spawn egg
+- Siphonophore spawn egg
 
 Foods:
 - Maple syrup
