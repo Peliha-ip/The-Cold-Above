@@ -54,6 +54,7 @@ Mobs:
 - Gulper eel
 - Fangtooth
 - Viperfish
+- Sea angel
 
 Structures:
 - Observatory
@@ -448,6 +449,7 @@ Items:
 - Gulper eel spawn egg
 - Viperfish spawn egg
 - Fangtooth spawn egg
+- Sea angel spawn egg
 
 Foods:
 - Maple syrup
