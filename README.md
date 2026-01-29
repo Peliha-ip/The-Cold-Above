@@ -52,6 +52,8 @@ Mobs:
 - Comb jelly
 - Snailfish
 - Gulper eel
+- Fangtooth
+- Viperfish
 
 Structures:
 - Observatory
@@ -444,6 +446,8 @@ Items:
 - Comb jelly spawn egg
 - Snailfish spawn egg
 - Gulper eel spawn egg
+- Viperfish spawn egg
+- Fangtooth spawn egg
 
 Foods:
 - Maple syrup
