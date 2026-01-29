@@ -55,6 +55,8 @@ Mobs:
 - Fangtooth
 - Viperfish
 - Sea angel
+- Vampire squid
+- Dragonfish
 
 Structures:
 - Observatory
@@ -450,6 +452,8 @@ Items:
 - Viperfish spawn egg
 - Fangtooth spawn egg
 - Sea angel spawn egg
+- Dragonfish spawn egg
+- Vampire squid spawn egg
 
 Foods:
 - Maple syrup
