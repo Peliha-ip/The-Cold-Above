@@ -57,6 +57,7 @@ Mobs:
 - Sea angel
 - Vampire squid
 - Dragonfish
+- Deep sea isopod
 
 Structures:
 - Observatory
@@ -454,6 +455,7 @@ Items:
 - Sea angel spawn egg
 - Dragonfish spawn egg
 - Vampire squid spawn egg
+- Deep sea isopod spawn egg
 
 Foods:
 - Maple syrup
