@@ -78,6 +78,8 @@ Dimensions:
 - Moon
 - Mars
 - Gemina
+- Dream
+- Nightmare
 
 Biomes:
 - Ice sheet
@@ -402,6 +404,23 @@ Items:
 - Goo
 - Bucket of ichtrix 
 - Ski
+- Pillow
+- Purple pillow
+- Magenta pillow
+- Pink pillow
+- Blue pillow
+- Light blue pillow
+- Cyan pillow
+- Green pillow
+- Lime pillow
+- Yellow pillow
+- Orange pillow
+- Red pillow
+- White pillow
+- Black pillow
+- Gray pillow
+- Light gray pillow
+- Brown pillow
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
