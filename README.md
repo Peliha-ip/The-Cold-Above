@@ -49,6 +49,9 @@ Mobs:
 - Starballoon
 - Cosmollusk
 - Tentrix
+- Comb jelly
+- Snailfish
+- Gulper eel
 
 Structures:
 - Observatory
@@ -438,6 +441,9 @@ Items:
 - Starballoon spawn egg
 - Cosmollusk spawn egg
 - Tentrix  spawn egg
+- Comb jelly spawn egg
+- Snailfish spawn egg
+- Gulper eel spawn egg
 
 Foods:
 - Maple syrup
