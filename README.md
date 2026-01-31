@@ -59,6 +59,7 @@ Mobs:
 - Dragonfish
 - Deep sea isopod
 - Siphonophore
+- Magnapinna
 
 Structures:
 - Observatory
@@ -490,6 +491,7 @@ Items:
 - Vampire squid spawn egg
 - Deep sea isopod spawn egg
 - Siphonophore spawn egg
+- Magnapinna spawn egg
 
 Foods:
 - Maple syrup
