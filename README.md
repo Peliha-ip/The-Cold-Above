@@ -60,6 +60,7 @@ Mobs:
 - Deep sea isopod
 - Siphonophore
 - Magnapinna
+- Yeti crab
 
 Structures:
 - Observatory
@@ -492,6 +493,7 @@ Items:
 - Deep sea isopod spawn egg
 - Siphonophore spawn egg
 - Magnapinna spawn egg
+- Yeti crab spawn egg
 
 Foods:
 - Maple syrup
