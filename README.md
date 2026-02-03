@@ -535,3 +535,5 @@ Advancements:
 - There's a Worm in My Tree (Encounter a fuzzy worm inside a tree)
 - I'm Bejeweled (have 3 of each rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz)
 - Wrong Demographic, But Right Customer (Barter emeralds with aliens)
+- Dress Up Like a Moose During Hunting Season (Get to 5 blocks from a moose)
+- O Canada (Place down a maple leaf)
