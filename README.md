@@ -95,6 +95,7 @@ Dimensions:
 Biomes:
 - Ice sheet
 - Frozen cave
+- Abyss
 
 Blocks
 - Maple wood
