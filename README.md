@@ -62,6 +62,7 @@ Mobs:
 - Magnapinna
 - Yeti crab
 - Canadian goose
+- Owl (with 3 variants: snowy in cold biomes, wild in the other biomes, and suspicious in cosmic dimensions)
 
 Structures:
 - Observatory
