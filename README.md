@@ -512,7 +512,6 @@ Foods:
 - Goat cheese
 - Raw bacon
 - Cooked bacon
-- Cheese
 - Ichtrix
 - Cooked Ichtrix
 
