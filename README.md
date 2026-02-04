@@ -61,6 +61,7 @@ Mobs:
 - Siphonophore
 - Magnapinna
 - Yeti crab
+- Canadian goose
 
 Structures:
 - Observatory
@@ -495,6 +496,7 @@ Items:
 - Siphonophore spawn egg
 - Magnapinna spawn egg
 - Yeti crab spawn egg
+- Canadian goose spawn egg
 
 Foods:
 - Maple syrup
