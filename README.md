@@ -63,6 +63,8 @@ Mobs:
 - Yeti crab
 - Canadian goose
 - Owl (with 3 variants: snowy in cold biomes, wild in the other biomes, and suspicious in cosmic dimensions)
+- Chiller
+- Conjured slime
 
 Structures:
 - Observatory
@@ -301,6 +303,7 @@ Blocks
 - Glow worm
 - Dimensional paintings
 - Suspicious snow
+- Conjured slime block
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, owls (suspicious) or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -339,6 +342,9 @@ Features:
 - To venture the abyss, lights that can be place underwater would be required as the abyss are 100% pitch black with a few glowing mobs. The pressure is also a thing to take into consideration. Enchanting your armor with pressure standing will make it easier for you to stand the pressure. Having one piece of armor enchanted with pressure standing will only reduce pressure damage of 25%, two for 50%, three for 75%, and all for immunity to pressure damage.
 - Pressure standing is also great for dimensions with different pressure levels to the surface.
 - Jumping through dimensional paintings can lead you to even more dimensions.
+- When a conjured slime attacks the player, they get poison and nausea for a minute. They stay stationary and attack with projectiles.
+- Conjured slime blocks give the player nausea for 15 seconds every tick they're touching it.
+- A chiller is just like a creeper, but they also give the player freezing damage when exploding.
 
 Items:
 - Maple boat
