@@ -300,6 +300,7 @@ Blocks
 - Cloudlight
 - Glow worm
 - Dimensional paintings
+- Suspicious snow
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, owls (suspicious) or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -309,9 +310,9 @@ Features:
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, what allows the player to travel in space.
 - Placing maple syrup and a stick on a snow block will turn the syrup and the stick into maple taffy. The snow block will take 15 seconds to turn the maple syrup and the stick into maple taffy. Eating the maple taffy will turn it back into a stick.
-- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, material that can be added into any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability with leather. Insulated boots of any tiers allow player to walk on powdered snow, making leather boots in mid to late game less of a burden.
+- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, material that can be added into any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability or armor points with leather. Insulated boots of any tiers allow player to walk on powdered snow, making leather boots in mid to late game less of a burden.
 - Renaming a smilodon "Diego" will change its model to the famous character from Ice Age.
-- Wooden shacks can often have smilodon husks and woolly rhinoceros husks as loot.
+- Suspicious snow can often have smilodon husks and woolly rhinoceros husks as loot.
 - Penguins will make boats faster.
 - Icelogers will appear in raids.
 - Stardust and rubies, sapphires, opals, zircons, emeralds, amethyst shards, or quartz can also be used to craft cat armor, that will protect cats, give better gifts, and repels creepers and phantoms from further away.
