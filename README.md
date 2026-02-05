@@ -449,6 +449,7 @@ Items:
 - Gray pillow
 - Light gray pillow
 - Brown pillow
+- Conjured slime ball
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
