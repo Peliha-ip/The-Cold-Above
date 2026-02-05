@@ -301,7 +301,7 @@ Blocks
 - Cloud block
 - Cloudlight
 - Glow worm
-- Dimensional paintings
+- Dimensional painting
 - Suspicious snow
 - Conjured slime block
 
