@@ -299,6 +299,7 @@ Blocks
 - Cloud block
 - Cloudlight
 - Glow worm
+- Dimensional paintings
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, owls (suspicious) or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -336,6 +337,7 @@ Features:
 - Bone mealing a phlox or a crocus will turn it into the huge variant of the flower.
 - To venture the abyss, lights that can be place underwater would be required as the abyss are 100% pitch black with a few glowing mobs. The pressure is also a thing to take into consideration. Enchanting your armor with pressure standing will make it easier for you to stand the pressure. Having one piece of armor enchanted with pressure standing will only reduce pressure damage of 25%, two for 50%, three for 75%, and all for immunity to pressure damage.
 - Pressure standing is also great for dimensions with different pressure levels to the surface.
+- Jumping through dimensional paintings can lead you to even more dimensions.
 
 Items:
 - Maple boat
