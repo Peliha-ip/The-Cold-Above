@@ -65,6 +65,7 @@ Mobs:
 - Owl (with 3 variants: snowy in cold biomes, wild in the other biomes, and suspicious in cosmic dimensions)
 - Chiller
 - Conjured slime
+- Red dragon
 
 Structures:
 - Observatory
@@ -304,6 +305,7 @@ Blocks
 - Dimensional painting
 - Suspicious snow
 - Conjured slime block
+- Red dragon egg
 
 Features:
 - Asteroid and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, owls (suspicious) or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -345,6 +347,7 @@ Features:
 - When a conjured slime attacks the player, they get poison and nausea for a minute. They stay stationary and attack with projectiles.
 - Conjured slime blocks give the player nausea for 15 seconds every tick they're touching it.
 - A chiller is just like a creeper, but they also give the player freezing damage when exploding.
+- The red dragon can be found in Barotherm. Unlike the enderdragon, they tameable and can even reproduce.
 
 Items:
 - Maple boat
@@ -508,6 +511,9 @@ Items:
 - Magnapinna spawn egg
 - Yeti crab spawn egg
 - Canadian goose spawn egg
+- Chiller spawn egg
+- Conjured slime spawn egg
+- Red dragon spawn egg
 
 Foods:
 - Maple syrup
