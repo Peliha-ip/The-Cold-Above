@@ -25,7 +25,7 @@ Mobs:
 - Elephant seal
 - Phlox titan (Invulnerable)
 - Crocus titan (Invulnerable)
-- Manta ray (Cosmic in space or end, fire in the nether, and normal in overworld)
+- Manta ray (Cosmic in space or end, abyssal in the abyss, fire in the nether, and normal in overworld)
 - Slithering cat
 - Droopy dragon
 - Somniworm
