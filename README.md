@@ -559,4 +559,5 @@ Advancements:
 - Wrong Demographic, But Right Customer (Barter emeralds with aliens)
 - Dress Up Like a Moose During Hunting Season (Get to 5 blocks from a moose)
 - O Canada (Place down a maple leaf)
-- Thalassophobia (get to the abyss with all pieces of armor enchanted with pressure standing)
+- Thalassophobia (Get to the abyss with all pieces of armor enchanted with pressure standing)
+- Send Me On My Way (Create an ice portal)
