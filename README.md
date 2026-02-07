@@ -544,7 +544,7 @@ Enchantments:
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
 - Bom-Ba-Dum (Give a mint to a yeti)
-- Yessir, It's Cold Outside (Breed two yetis)
+- Yezzir, It's Cold Outside (Breed two yetis)
 - Phosphoran Finding (Enter the Phlox dimension)
 - Cruv'laaphtian Discovery (Enter the Crocus dimension)
 - She's Sleeping Under the Tree on the Hill (Enter the storybook dimension)
