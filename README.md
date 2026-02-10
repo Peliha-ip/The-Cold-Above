@@ -351,6 +351,7 @@ Features:
 - A chiller is just like a creeper, but they also give the player freezing damage when exploding.
 - The red dragon can be found in a painting dimension. Unlike the enderdragon, they're tameable, rideable, and can even breed.
 - Villagers get two more jobs. A villager assigned to a woodcarver is a lumberjack and a villager assigned to a firework tinkerer is a pyrotechnist.
+- Glow squids can spawn in the abyss.
 
 Items:
 - Maple boat
