@@ -562,3 +562,5 @@ Advancements:
 - O Canada (Place down a maple leaf)
 - Thalassophobia (Get to the abyss with all pieces of armor enchanted with pressure standing)
 - Send Me On My Way (Create an ice portal)
+- Can't Be Erased (Use a totem of undying in a dimensional painting)
+- Build Our Machine (Craft a dimensional painting)
