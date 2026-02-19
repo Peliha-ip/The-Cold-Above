@@ -565,3 +565,4 @@ Advancements:
 - Send Me On My Way (Create an ice portal)
 - Can't Be Erased (Use a totem of undying in a dimensional painting)
 - Build Our Machine (Craft a dimensional painting)
+- Om Nom Nom (Eat a mint)
