@@ -539,6 +539,7 @@ Foods:
 - Cooked bacon
 - Ichtrix
 - Cooked Ichtrix
+- Popsicle
 
 Enchantments:
 - Pressure standing
@@ -566,3 +567,4 @@ Advancements:
 - Can't Be Erased (Use a totem of undying in a dimensional painting)
 - Build Our Machine (Craft a dimensional painting)
 - Om Nom Nom (Eat a mint)
+- Embrace the Dark (Adventure the abyss with only night vision)
