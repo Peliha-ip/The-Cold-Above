@@ -574,3 +574,5 @@ Advancements:
 - Dreams Come True (Bring something from the dream or nightmare dimensions)
 - Who's Laughing Now (Dominate the nightmare dimension)
 - Devil's Swing (Enter the Barotherm dimension)
+- To Infinity and Beyond (Enter an atmospheric dimension)
+- SkyPainting (Light fireworks in an atmospheric dimension)
