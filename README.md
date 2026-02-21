@@ -568,3 +568,6 @@ Advancements:
 - Build Our Machine (Craft a dimensional painting)
 - Om Nom Nom (Eat a mint)
 - Embrace the Dark (Adventure the abyss with only night vision)
+- Dreams Come True (Bring something from the dream or nightmare dimensions)
+- Who's Laughing Now (Dominate the nightmare dimension)
+- Devil's Swing (Enter the Barotherm dimension)
