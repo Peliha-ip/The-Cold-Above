@@ -356,6 +356,7 @@ Features:
 - Renaming a crystal fox "Sox" will change its model to match the character from My Singing Monsters.
 - Renaming a starballoon "Luma" or "Rosalina" will change its texture to have it hold a Rosalina plush as well as changing its texture to make it look like a Luma. Renaming a starballoon "eRmA gUrDy" will change its model to match the character from My Singing Monsters.
 - Renaming a penguin "Pingu" will change its model to match the character from the famous character from the preschool show of the same name.
+- Renaming a yeti "Mammott" will change its model to match the character from My Singing Monsters.
 
 Items:
 - Maple boat
