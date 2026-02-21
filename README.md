@@ -353,6 +353,8 @@ Features:
 - Villagers get two more jobs. A villager assigned to a woodcarver is a lumberjack and a villager assigned to a firework tinkerer is a pyrotechnist.
 - Glow squids can spawn in the abyss.
 - Renaming a wolf "Mars" or "Boris" will change their texture to match either character.
+- Renaming a crystal fox "Sox" will change its model to match the character from My Singing Monsters.
+- Renaming a starballoon "Luma" or "Rosalina" will change its texture to have it hold a Rosalina plush as well as changing its texture to make it look like a Luma. Renaming a starballoon "eRmA gUrDy" will change its model to match the character from My Singing Monsters.
 
 Items:
 - Maple boat
