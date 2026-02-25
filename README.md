@@ -88,10 +88,7 @@ Dimensions:
 - Gemina
 - Dream
 - Nightmare
-- Stratosphere
-- Mesosphere
-- Thermosphere
-- Exosphere
+- Sky
 - Barotherm
 - Cryostill
 - Nerthris
@@ -101,6 +98,10 @@ Biomes:
 - Ice sheet
 - Frozen cave
 - Abyss
+- Stratosphere
+- Mesosphere
+- Thermosphere
+- Exosphere
 
 Blocks
 - Maple wood
@@ -576,5 +577,5 @@ Advancements:
 - Dreams Come True (Bring something from the dream or nightmare dimensions)
 - Who's Laughing Now (Dominate the nightmare dimension)
 - Devil's Swing (Enter the Barotherm dimension)
-- To Infinity and Beyond (Enter an atmospheric dimension)
-- SkyPainting (Light fireworks in an atmospheric dimension)
+- To Infinity and Beyond (Enter the sky dimension)
+- SkyPainting (Light fireworks in the sky dimension)
