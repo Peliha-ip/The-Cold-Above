@@ -57,7 +57,7 @@ Mobs:
 - Sea angel
 - Vampire squid
 - Dragonfish
-- Deep sea isopod
+- Deep-sea isopod
 - Siphonophore
 - Magnapinna
 - Yeti crab
@@ -230,26 +230,26 @@ Blocks
 - Crocus petals
 - Phlox stem
 - Phlox petals
-- Moon stone
-- Moon stone slab
-- Moon stone stairs
-- Moon stone wall
-- Polished moon stone
-- Polished moon stone slab
-- Polished moon stone stairs
-- Polished moon stone wall
-- Smooth moon stone
-- Smooth moon stone slab
-- Smooth moon stone stairs
-- Smooth moon stone wall
-- Moon stone bricks
-- Moon stone bricks slab
-- Moon stone bricks stairs
-- Moon stone bricks wall
-- Moon stone tiles
-- Moon stone tiles slab
-- Moon stone tiles stairs
-- Moon stone tiles wall
+- Moonstone
+- Moonstone slab
+- Moonstone stairs
+- Moonstone wall
+- Polished moonstone
+- Polished moonstone slab
+- Polished moonstone stairs
+- Polished moonstone wall
+- Smooth moonstone
+- Smooth moonstone slab
+- Smooth moonstone stairs
+- Smooth moonstone wall
+- Moonstone bricks
+- Moonstone bricks slab
+- Moonstone bricks stairs
+- Moonstone bricks wall
+- Moonstone tiles
+- Moonstone tiles slab
+- Moonstone tiles stairs
+- Moonstone tiles wall
 - Maple syrup snow
 - Smilodon reviver
 - Reinforced grass block
@@ -263,14 +263,14 @@ Blocks
 - Mars stone slab
 - Mars stone stairs
 - Mars stone wall
-- Polished mars stone
-- Polished mars stone slab
-- Polished mars stone stairs
-- Polished mars stone wall
-- Smooth mars stone
-- Smooth mars stone slab
-- Smooth mars stone stairs
-- Smooth mars stone wall
+- Polished Mars stone
+- Polished Mars stone slab
+- Polished Mars stone stairs
+- Polished Mars stone wall
+- Smooth Mars stone
+- Smooth Mars stone slab
+- Smooth Mars stone stairs
+- Smooth Mars stone wall
 - Mars stone bricks
 - Mars stone bricks slab
 - Mars stone bricks stairs
@@ -283,14 +283,14 @@ Blocks
 - Gemina stone slab
 - Gemina stone stairs
 - Gemina stone wall
-- Polished gemina stone
-- Polished gemina stone slab
-- Polished gemina stone stairs
-- Polished gemina stone wall
-- Smooth gemina stone
-- Smooth gemina stone slab
-- Smooth gemina stone stairs
-- Smooth gemina stone wall
+- Polished Gemina stone
+- Polished Gemina stone slab
+- Polished Gemina stone stairs
+- Polished Gemina stone wall
+- Smooth Gemina stone
+- Smooth Gemina stone slab
+- Smooth Gemina stone stairs
+- Smooth Gemina stone wall
 - Gemina stone bricks
 - Gemina stone bricks slab
 - Gemina stone bricks stairs
@@ -467,7 +467,7 @@ Items:
 - Sea angel spawn egg
 - Dragonfish spawn egg
 - Vampire squid spawn egg
-- Deep sea isopod spawn egg
+- Deep-sea isopod spawn egg
 - Siphonophore spawn egg
 - Magnapinna spawn egg
 - Yeti crab spawn egg
@@ -504,51 +504,51 @@ Features:
 - Asteroids and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, cosmollusks, tentrixes, owls (suspicious) or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
 - Rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz can be used as currency with aliens like gloops, slithering cats, somniworms, blobs, carcyns, murrixes, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, crowneds, cosmollusks, tentrixes, and tangleds. Aliens can barter rubies, sapphires, zircons, opals, emeralds, amethyst shards, or quartz for special loot. The loot might vary according to what was given to an alien. Rubies, sapphires, opals, and zircons will give better loot than emeralds, amethyst shards, or quartz.
-- Ice portals are now possible and each portal can send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
+- Ice portals are now possible, and each portal can send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, which allows the player to travel in space.
 - Placing maple syrup and a stick on a snow block will turn the syrup and the stick into maple taffy. The snow block will take 15 seconds to turn the maple syrup and the stick into maple taffy. Eating the maple taffy will turn it back into a stick.
-- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, a material that can be added to any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability or armor points with leather. Insulated boots of any tiers allow player to walk on powdered snow, making leather boots in the mid to late game less of a burden.
-- Renaming a smilodon "Diego" will change its model to the famous character from Ice Age.
+- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, a material that can be added to any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability or armor points with leather. Insulated boots of any tier allow players to walk on powdered snow, making leather boots in the mid to late game less of a burden.
+- Renaming a Smilodon "Diego" will change its model to the famous character from Ice Age.
 - Suspicious snow can often have smilodon husks and woolly rhinoceros husks as loot.
 - Penguins will make boats faster.
 - Icelogers will appear in raids.
-- Stardust and rubies, sapphires, opals, zircons, emeralds, amethyst shards, or quartz can also be used to craft cat armor, that will protect cats, give better gifts, and repels creepers and phantoms from further away.
+- Stardust and rubies, sapphires, opals, zircons, emeralds, amethyst shards, or quartz can also be used to craft cat armor, which will protect cats, give better gifts, and repel creepers and phantoms from further away.
 - In the storybook dimension, special blocks compose this dimension. None of the blocks that naturally generate in this dimension can be broken.
-- At the (0,0) coordinates of the Phlox and Crocus dimension awaits the Phlox Titan and the Crocus Titan respectively, both are invulnerable.
-- Manta rays spawned in space or the end become cosmic rays. Manta rays spawned in the nether become fire rays. Manta rays spawned in the overworld will just be normal manta rays. Normal manta rays can suffocate if out of the water for too long, except if they're in the nether, in that case, they turn into fire rays.
+- At the (0,0) coordinates of the Phlox and Crocus dimensions await the Phlox Titan and the Crocus Titan, respectively; both are invulnerable.
+- Manta rays spawned in space or the end become cosmic rays. Manta rays spawned in the nether become fire rays. Manta rays spawned in the overworld will just be normal manta rays. Normal manta rays can suffocate if out of the water for too long, except if they're in the nether, in which case, they turn into fire rays.
 - Narwhals, belugas, and orcas can die if beached for too long (not because of suffocation).
-- Fire rays can be a great transportation method in the nether, but risky in the overworld because rain hurts fire rays. Cosmic rays are more appropriate for traveling in the overworld, although not immune to fire unlike fire rays.
+- Fire rays can be a great transportation method in the Nether, but risky in the Overworld because rain hurts fire rays. Cosmic rays are more appropriate for traveling in the overworld, although not immune to fire, unlike fire rays.
 - Goo can be dropped from gloops and tangleds and can be smelted into slimeballs.
 - Armadillos run from peacock spiders.
 - Peacock spiders attack spiders and cave spiders.
 - Comets and asteroids are more likely during an aurora.
 - Frostbittens cause freezing damage for 5 seconds when they attack.
-- Droopy dragons can spawn on some cosmic dimensions or its egg can either be obtained from comets or bartered by aliens. Right clicking on a droopy dragon will give the player the unused Droopy Likes Your Face music disc.
+- Droopy dragons can spawn on some cosmic dimensions, or their egg can be obtained from comets or bartered by aliens. Right-clicking on a droopy dragon will give the player the unused Droopy Likes Your Face music disc.
 - Snow golems can now have different faces and can even be equipped with carrots or golden carrots.
-- Woolly rhinoceroses can be dyed in any color, they also yield more wool than sheep, but they're neutral mobs.
+- Woolly rhinoceroses can be dyed in any color; they also yield more wool than sheep, but they're neutral mobs.
 - The Moon regenerates every time the player exits the Moon dimension.
 - Goo blocks and gooey pistons can move every block except command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate.
 - Yetis can also spawn in the Mars dimension.
 - Stone chickens will drop Mars stone every 5-10 seconds.
 - Fuzzy worms love to hang out in stellarwood and xenoowood trees.
 - Snow golems can be created with carved melons, granting you the melon snow golem, just a visual variant of the existing snow golem.
-- Bone mealing a phlox or a crocus will turn it into the huge variant of the flower.
-- To venture the abyss, lights that can be place underwater would be required as the abyss are 100% pitch black with a few glowing mobs. The pressure is also a thing to take into consideration. Enchanting your armor with pressure standing will make it easier for you to stand the pressure. Having one piece of armor enchanted with pressure standing will only reduce pressure damage of 25%, two for 50%, three for 75%, and all for immunity to pressure damage.
-- Pressure standing is also great for dimensions with different pressure levels to the surface.
+- Bone mealing a phlox, or a crocus will turn it into a huge variant of the flower.
+- To venture into the abyss, lights that can be placed underwater would be required as the abyss are 100% pitch black with a few glowing mobs. The pressure is also a thing to take into consideration. Enchanting your armor with pressure standing will make it easier for you to stand the pressure. Having one piece of armor enchanted with pressure standing reduces pressure damage by 25%; two by 50%; three by 75%; and all by immunity to pressure damage.
+- Pressure standing is also great for dimensions with different pressure levels on the surface.
 - Jumping through dimensional paintings can lead you to even more dimensions.
 - When a conjured slime attacks the player, they get poison and nausea for a minute. They stay stationary and attack with projectiles.
 - Conjured slime blocks give the player nausea for 15 seconds every tick they're touching it.
 - A chiller is just like a creeper, but they also give the player freezing damage when exploding.
-- The red dragon can be found in a painting dimension. Unlike the enderdragon, they're tameable, rideable, and can even breed.
-- Villagers get two more jobs. A villager assigned to a woodcarver is a lumberjack and a villager assigned to a firework tinkerer is a pyrotechnist.
+- The red dragon can be found in a painting dimension. Unlike the Ender Dragon, they're tameable, rideable, and can even breed.
+- Villagers get two more jobs. A villager assigned to a woodcarver is a lumberjack, and a villager assigned to a firework tinkerer is a pyrotechnist.
 - Glow squids can spawn in the abyss.
 - Renaming a wolf "Mars" or "Boris" will change their texture to match either character.
 - Renaming a crystal fox "Sox" will change its model to match the character from My Singing Monsters.
-- Renaming a starballoon "Luma" or "Rosalina" will change its texture to have it hold a Rosalina plush as well as changing its texture to make it look like a Luma. Renaming a starballoon "eRmA gUrDy" will change its model to match the character from My Singing Monsters.
-- Renaming a penguin "Pingu" will change its model to match the character from the famous character from the preschool show of the same name.
+- Renaming a starballoon "Luma" or "Rosalina" will change its texture to hold a Rosalina plush, as well as changing its texture to make it look like a Luma. Renaming a starballoon "eRmA gUrDy" will change its model to match the character from My Singing Monsters.
+- Renaming a penguin "Pingu" will change its model to match the character from the famous character from the preschool show of the same name, while also making it sound like him.
 - Renaming a yeti "Mammott" will change its model to match the character from My Singing Monsters.
-
+- Renaming a penguin "Rico", "Kowalski", "Skipper", or "Private" will trigger interesting changes. Rico will randomly drop loot with various tiers (common, rare, epic, and legendary). Common loot has a zero chance to explode, rare loot has a low chance to explode, epic loot has a medium chance to explode, and legendary loot has a high chance to explode. So, I don't recommend having Rico in your house. Kowalski can open doors and interact with redstone. Skipper attacks most hostile mobs. Private picks up items and gives them to nearby players while also healing nearby players and tamed mobs.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
@@ -573,9 +573,13 @@ Advancements:
 - Can't Be Erased (Use a totem of undying in a dimensional painting)
 - Build Our Machine (Craft a dimensional painting)
 - Om Nom Nom (Eat a mint)
-- Embrace the Dark (Adventure the abyss with only night vision)
+- Embrace the Dark (Adventure in the abyss with only night vision)
 - Dreams Come True (Bring something from the dream or nightmare dimensions)
 - Who's Laughing Now (Dominate the nightmare dimension)
 - Devil's Swing (Enter the Barotherm dimension)
 - To Infinity and Beyond (Enter the sky dimension)
 - SkyPainting (Light fireworks in the sky dimension)
+- Greeting, Young Portal Master (Visit all sky biomes)
+- BOOM! (Cross one island to the other without bridging in the sky dimension)
+- Noot Noot (Rename a penguin "Pingu")
+- Just Smile and Wave, Boys (Have Kowalski, Rico, Skipper, and Private penguins)
