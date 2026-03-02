@@ -497,7 +497,7 @@ Foods:
 - Cooked Ichtrix
 - Popsicle
 
-Enchantments:
+Enchantment:
 - Pressure standing
 
 Features:
