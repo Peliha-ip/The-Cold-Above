@@ -414,6 +414,7 @@ Items:
 - Light gray pillow
 - Brown pillow
 - Conjured slime ball
+- Hot air balloon
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
@@ -549,6 +550,7 @@ Features:
 - Renaming a penguin "Pingu" will change its model to match the character from the famous character from the preschool show of the same name, while also making it sound like him.
 - Renaming a yeti "Mammott" will change its model to match the character from My Singing Monsters.
 - Renaming a penguin "Rico", "Kowalski", "Skipper", or "Private" will trigger interesting changes. Rico will randomly drop loot with various tiers (common, rare, epic, and legendary). Common loot has a zero chance to explode, rare loot has a low chance to explode, epic loot has a medium chance to explode, and legendary loot has a high chance to explode. So, I don't recommend having Rico in your house. Kowalski can open doors and interact with redstone. Skipper attacks most hostile mobs. Private picks up items and gives them to nearby players while also healing nearby players and tamed mobs.
+- Hot air balloons can be an early way to travel in the air. To avoid making happy ghasts obsolete, entities can't be attached to hot air balloons.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
@@ -580,7 +582,7 @@ Advancements:
 - To Infinity and Beyond (Enter the sky dimension)
 - SkyPainting (Light fireworks in the sky dimension)
 - Greetings, Young Portal Master (Visit all sky biomes)
-- BOOM! (Cross one island to the other without bridging in the sky dimension)
+- BOOM! (Hop on a hot air balloon)
 - Noot Noot! (Rename a penguin "Pingu")
 - Just Smile and Wave, Boys (Have Kowalski, Rico, Skipper, and Private penguins)
 
