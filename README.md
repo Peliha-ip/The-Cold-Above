@@ -504,7 +504,7 @@ Enchantment:
 Features:
 - Asteroids and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, hexacrons, cosmollusks, tentrixes, owls (suspicious), or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
-- Rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz can be used as currency with aliens like gloops, slithering cats, somniworms, blobs, carcyns, murrixes, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, crowneds, cosmollusks, tentrixes, starballoons, and tangleds. Aliens can barter rubies, sapphires, zircons, opals, emeralds, amethyst shards, or quartz for special loot. The loot might vary according to what was given to an alien. Rubies, sapphires, opals, and zircons will give better loot than emeralds, amethyst shards, or quartz.
+- Rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz can be used as currency with aliens like gloops, slithering cats, somniworms, blobs, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, crowneds, cosmollusks, tentrixes, starballoons, and tangleds. Aliens can barter rubies, sapphires, zircons, opals, emeralds, amethyst shards, or quartz for special loot. The loot might vary according to what was given to an alien. Rubies, sapphires, opals, and zircons will give better loot than emeralds, amethyst shards, or quartz.
 - Ice portals are now possible, and each portal can send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
 - A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, which allows the player to travel in space.
@@ -559,7 +559,7 @@ Advancements:
 - Phosphoran Finding (Enter the Phlox dimension)
 - Cruv'laaphtian Discovery (Enter the Crocus dimension)
 - She's Sleeping Under the Tree on the Hill (Enter the storybook dimension)
-- Alien Products (Barter rubies with aliens)
+- Alien Products (Barter gemstones with aliens)
 - Moon Landing Wasn't Fake (Land on the Moon)
 - Less Alien (Smelt goo into a slimeball)
 - Unicorn With Thick Wool (Revive a woolly rhinoceros)
@@ -588,4 +588,4 @@ Advancements:
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
-- Alien (Bartering): gloop, slithering cat, somniworm, blob, carcyn, murrix, hexacron, hippie, cortex, déjà-vu, bookworm, orbel, crowned, cosmollusk, tentrix, starballoon, and tangled
+- Alien (Bartering): gloop, slithering cat, somniworm, blob, hexacron, hippie, cortex, déjà-vu, bookworm, orbel, crowned, cosmollusk, tentrix, starballoon, and tangled
