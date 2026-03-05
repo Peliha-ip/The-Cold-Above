@@ -85,14 +85,14 @@ Dimensions:
 - Storybook
 - Moon
 - Mars
-- Gemina
+- Gemina (Based on Bejeweled)
 - Dream
 - Nightmare
 - Sky
-- Barotherm
-- Cryostill
-- Nerthris
-- Aeralis
+- Barotherm (Venus-like)
+- Cryostill (Frozen desert planet)
+- Nerthris (Based on Europa)
+- Aeralis (Uranus/Neptune-like)
 
 Biomes:
 - Ice sheet
