@@ -66,6 +66,8 @@ Mobs:
 - Chiller
 - Conjured slime
 - Red dragon
+- Macrauchenia
+- Saber-tooth squirrel
 
 Structures:
 - Observatory
@@ -93,6 +95,8 @@ Dimensions:
 - Cryostill (Frozen desert planet)
 - Nerthris (Based on Europa)
 - Aeralis (Uranus/Neptune-like)
+- Alpha
+- Pre-classic
 
 Biomes:
 - Ice sheet
@@ -102,6 +106,17 @@ Biomes:
 - Mesosphere
 - Thermosphere
 - Exosphere
+- Pre-classic plains
+- Alpha plains
+- Alpha swamp
+- Alpha desert
+- Alpha savanna
+- Alpha forest
+- Rainforest
+- Seasonal forest
+- Alpha tundra
+- Snow desert
+- Shrubland
 
 Blocks
 - Maple wood
@@ -309,6 +324,8 @@ Blocks
 - Red dragon egg
 - Woodcarver
 - Firework tinkerer
+- Macrauchenia egg
+- Saber-tooth squirrel egg
 
 Items:
 - Maple boat
@@ -476,6 +493,8 @@ Items:
 - Chiller spawn egg
 - Conjured slime spawn egg
 - Red dragon spawn egg
+- Macrauchenia spawn egg
+- Saber-tooth squirrel spawn egg
 
 Foods:
 - Maple syrup
@@ -551,6 +570,7 @@ Features:
 - Renaming a yeti "Mammott" will change its model to match the character from My Singing Monsters.
 - Renaming a penguin "Rico", "Kowalski", "Skipper", or "Private" will trigger interesting changes. Rico will randomly drop loot with various tiers (common, rare, epic, and legendary). Common loot has a zero chance to explode, rare loot has a low chance to explode, epic loot has a medium chance to explode, and legendary loot has a high chance to explode. So, I don't recommend having Rico in your house. Kowalski can open doors and interact with redstone. Skipper attacks most hostile mobs. Private picks up items and gives them to nearby players while also healing nearby players and tamed mobs.
 - Hot air balloons can be an early way to travel in the air. To avoid making happy ghasts obsolete, entities can't be attached to hot air balloons.
+- Renaming a saber-tooth squirrel will change its texture to match the iconic character from Ice Age.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
