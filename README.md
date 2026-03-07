@@ -326,6 +326,9 @@ Blocks
 - Firework tinkerer
 - Macrauchenia egg
 - Saber-tooth squirrel egg
+- Smilodon egg
+- Droopy dragon egg
+- Woolly rhinoceros egg
 
 Items:
 - Maple boat
@@ -351,12 +354,9 @@ Items:
 - Canadian banner pattern
 - Smilodon husk
 - Smilodon DNA
-- Smilodon egg
-- Droopy dragon egg
 - Droopy Likes Your Face music disc
 - Woolly rhinoceros husk
 - Woolly rhinoceros DNA
-- Woolly rhinoceros egg
 - Yeti fur
 - Insulated chainmail helmet
 - Insulated chainmail chestplate
@@ -570,7 +570,7 @@ Features:
 - Renaming a yeti "Mammott" will change its model to match the character from My Singing Monsters.
 - Renaming a penguin "Rico", "Kowalski", "Skipper", or "Private" will trigger interesting changes. Rico will randomly drop loot with various tiers (common, rare, epic, and legendary). Common loot has a zero chance to explode, rare loot has a low chance to explode, epic loot has a medium chance to explode, and legendary loot has a high chance to explode. So, I don't recommend having Rico in your house. Kowalski can open doors and interact with redstone. Skipper attacks most hostile mobs. Private picks up items and gives them to nearby players while also healing nearby players and tamed mobs.
 - Hot air balloons can be an early way to travel in the air. To avoid making happy ghasts obsolete, entities can't be attached to hot air balloons.
-- Renaming a saber-tooth squirrel will change its texture to match the iconic character from Ice Age.
+- Renaming a saber-tooth squirrel "Scrat" will change its texture to match the iconic character from Ice Age.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
