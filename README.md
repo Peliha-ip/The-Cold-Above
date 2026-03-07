@@ -605,6 +605,7 @@ Advancements:
 - BOOM! (Hop on a hot air balloon)
 - Noot Noot! (Rename a penguin "Pingu")
 - Just Smile and Wave, Boys (Have Kowalski, Rico, Skipper, and Private penguins)
+- Still Falling For You (Fall from the sky dimension to the overworld safely)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
