@@ -68,6 +68,10 @@ Mobs:
 - Red dragon
 - Macrauchenia
 - Saber-tooth squirrel
+- Oil slime
+- Smog creeper
+- Sludged
+- Corroded
 
 Structures:
 - Observatory
@@ -80,6 +84,13 @@ Structures:
 - Floating rock
 - Martian face
 - Subglacial lake
+- Abandoned factory
+- Workshop
+- Landfill
+- Abandoned city
+- Refinery
+- Filthra tree
+- Filthra tree stump
 
 Dimensions:
 - Crocus
@@ -97,6 +108,7 @@ Dimensions:
 - Aeralis (Uranus/Neptune-like)
 - Alpha
 - Pre-classic
+- Filthra
 
 Biomes:
 - Ice sheet
@@ -117,6 +129,10 @@ Biomes:
 - Alpha tundra
 - Snow desert
 - Shrubland
+- Polluted river
+- Polluted ocean
+- Polluted plains
+- Dead forest
 
 Blocks
 - Maple wood
@@ -324,6 +340,18 @@ Blocks
 - Red dragon egg
 - Woodcarver
 - Firework tinkerer
+- Plastic block
+- Plastic bucket
+- Traffic cone
+- Dirty traffic cone
+- Recycler
+- Used plastic water bottle
+- Sulfur block
+- Wooden scraps
+- Polluted dirt
+- Polluted stone
+- Filthra log
+- Filthra poster
 - Macrauchenia egg
 - Saber-tooth squirrel egg
 - Smilodon egg
@@ -432,6 +460,15 @@ Items:
 - Brown pillow
 - Conjured slime ball
 - Hot air balloon
+- Plastic bottle
+- Plastic scrap
+- Plastic
+- Rusty scrap
+- Bucket of oil
+- Sulfur
+- Bucket of polluted water
+- Bottle of polluted water
+- Stink bomb
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
@@ -495,6 +532,10 @@ Items:
 - Red dragon spawn egg
 - Macrauchenia spawn egg
 - Saber-tooth squirrel spawn egg
+- Oil slime spawn egg
+- Smog creeper spawn egg
+- Sludged spawn egg
+- Corroded spawn egg
 
 Foods:
 - Maple syrup
@@ -517,8 +558,16 @@ Foods:
 - Cooked Ichtrix
 - Popsicle
 
-Enchantment:
+Enchantments:
 - Pressure standing
+- Hazmat
+
+Effect:
+- Sticky oil
+
+Fluids:
+- Oil
+- Polluted water
 
 Features:
 - Asteroids and comets will occasionally fall in the overworld. Asteroids will give players asteroid stone and a group of 2-4 gloops, tangleds, flatworms (cosmic), peacock spiders, capricorns, slithering cats, manta rays (cosmic), somniworms, blobs, carcyns, murrixes, hippies, stone chickens, fuzzy worms, cortexes, bookworms, déjà-vus, crowneds, orbels, crystal foxes, starballoons, hexacrons, cosmollusks, tentrixes, owls (suspicious), or space whales can spawn near the crash site. Comets, however, give the player ice blocks and loot that include rubies, stardusts, diamonds, lapis, emeralds, opals, zircons, amethyst shards, quartz, moon stone, mars stone, gemina stone, droopy dragon eggs, or in rare cases, netherite and armor trims, might come with two new armor trims.
@@ -566,16 +615,27 @@ Features:
 - Renaming a wolf "Mars" or "Boris" will change their texture to match either character.
 - Renaming a crystal fox "Sox" will change its model to match the character from My Singing Monsters.
 - Renaming a starballoon "Luma" or "Rosalina" will change its texture to hold a Rosalina plush, as well as changing its texture to make it look like a Luma. Renaming a starballoon "eRmA gUrDy" will change its model to match the character from My Singing Monsters.
-- Renaming a penguin "Pingu" will change its model to match the character from the famous character from the preschool show of the same name, while also making it sound like him.
+- Renaming a penguin "Pingu" will change its model to match the character from the famous preschool show of the same name, while also making it sound like him.
 - Renaming a yeti "Mammott" will change its model to match the character from My Singing Monsters.
 - Renaming a penguin "Rico", "Kowalski", "Skipper", or "Private" will trigger interesting changes. Rico will randomly drop loot with various tiers (common, rare, epic, and legendary). Common loot has a zero chance to explode, rare loot has a low chance to explode, epic loot has a medium chance to explode, and legendary loot has a high chance to explode. So, I don't recommend having Rico in your house. Kowalski can open doors and interact with redstone. Skipper attacks most hostile mobs. Private picks up items and gives them to nearby players while also healing nearby players and tamed mobs.
 - Hot air balloons can be an early way to travel in the air. To avoid making happy ghasts obsolete, entities can't be attached to hot air balloons.
 - Renaming a saber-tooth squirrel "Scrat" will change its texture to match the iconic character from Ice Age.
+- Another cosmic dimension that players can find is the Filthra dimension; however, the hazmat enchantment is gonna be mandatory since the air is so toxic.
+- Oil is an effective source of fuel and a way to smelt into plastic to craft traffic cones, plastic bottles, plastic buckets, and plastic blocks, but oil comes with risk. It can not only grant anyone sticky oil for an infinite time until it is cleaned off, but it can also cause an environmental disaster. So, if you want more plastic, I advise you to farm them via the sludged.
+- Sticky oil is an effect that you get when touching oil. Sticky oil amplifies blast and fire damage while being more flammable (like being set on fire near a torch or furnace) and stacking with slowness, weakness, blindness, poison, and nausea. Sticky oil can also be given if an oil slime attacks the player. Thinking of jumping into a water block to clean yourself, not gonna work because touching water will cause whatever is covered in oil to die instantly. To clean yourself, use water inside a cauldron.
+- Jumping in polluted water grants anything that falls in it the poison, nausea, weakness, and wither effects.
+- Zombies, husks, drowneds, frostbittens, zombie villagers, skeletons, wither skeletons, strays, boggeds, and parcheds turn into a sludged if it were a zombie mob, or a corroded if it were a skeleton mob, if in oil or polluted water for too long. These mobs take more fire damage because they are covered in oil, destroy powdered snow and snow layers, and are instantly killed by water. Both drop plastic scraps upon death.
+- Recyclers are great for turning trash blocks, used plastic water bottles, dirty traffic cones, and plastic scraps into plastic, rusty scraps into iron ingots, used maps into paper, wooden scraps into sticks, Filthra logs into charcoal, and cleaning polluted water, polluted dirt, and polluted stone.
+- Unlike with glass bottles, plastic dragon's breath doesn't result in the loss of the bottle. Plastic bottles are intended to be as reusable as possible.
+- Smog creepers always leave a lingering poison effect when exploding. Instead of dropping gunpowder, smog creepers drop sulfur, which can be used to craft gunpowder with charcoal, sulfur blocks, and stink bombs.
+- Sludgeds and corrodeds can be equipped with various things from least protective to most protective: nothing, polluted dirt, a used plastic water bottle, a dirty traffic cone, wooden scraps, a dead coral block, a bucket, a cauldron, a trash block, polluted stone, a concrete block, basalt, bricks, a bone block, and a respawn anchor. The armor drops as an item once broken.
+- Oil slimes also wear buckets as armor. They also instantly die when touching water.
+- If a copper golem picks up a dirty traffic cone, a bottle of polluted water, a bucket of polluted water, polluted dirt, polluted stone, a trash block, a used plastic water bottle, a plastic scrap, a rusty scrap, wooden scraps, or a Filthra log, instead of looking for a nearby chest, it will look for a nearby recycler.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
 - Bom-Ba-Dum (Give a mint to a yeti)
-- Yezzir, It's Cold Outside (Breed two yetis)
+- Abominable Snow Child (Breed two yetis)
 - Phosphoran Finding (Enter the Phlox dimension)
 - Cruv'laaphtian Discovery (Enter the Crocus dimension)
 - She's Sleeping Under the Tree on the Hill (Enter the storybook dimension)
@@ -606,7 +666,17 @@ Advancements:
 - Noot Noot! (Rename a penguin "Pingu")
 - Just Smile and Wave, Boys (Have Kowalski, Rico, Skipper, and Private penguins)
 - Still Falling For You (Fall from the sky dimension to the overworld safely)
+- We Are the Workshop (Enter a workshop)
+- Creations Of A Mastermind (Summon a copper golem inside a workshop)
+- Cautionary Tale (Enter the Filthra dimension)
+- Yezzir, It's Cold Outside (Enter the Cryostill dimension)
+- All It Took Was a Trash Can (Pick up a trash block, a used plastic water bottle, a dirty traffic cone, a rusty scrap, wooden scraps, or a plastic scrap outside a landfill)
+- WAAAAAALLL-EEEEEEEEE (Craft a trash block with rusty and plastic scraps)
+- The Point Of No Return (Enter an abandoned factory and a refinery)
+- Watch Out For Uncle Sam (Kill an oil slime)
+- Good As New (Remove the sticky oil effect with a water cauldron)
+- Carrying an Environmental Hazard (Get a bucket of oil)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
-- Alien (Bartering): gloop, slithering cat, somniworm, blob, hexacron, hippie, cortex, déjà-vu, bookworm, orbel, crowned, cosmollusk, tentrix, starballoon, and tangled
+- Alien (Bartering): gloop, slithering cat, somniworm, blob, hexacron, hippie, cortex, déjà-vu, bookworm, orbel, crowned, tentrix, starballoon, and tangled
