@@ -358,6 +358,7 @@ Blocks
 - Polluted stone
 - Filthra log
 - Filthra poster
+- Plastic lamp
 - Clover
 - Macrauchenia egg
 - Saber-tooth squirrel egg
