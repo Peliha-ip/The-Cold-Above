@@ -73,6 +73,7 @@ Mobs:
 - Sludged
 - Corroded
 - Fairy
+- Leprechaun
 
 Structures:
 - Observatory
@@ -546,6 +547,7 @@ Items:
 - Sludged spawn egg
 - Corroded spawn egg
 - Fairy spawn egg
+- Leprechaun spawn egg
 
 Foods:
 - Maple syrup
