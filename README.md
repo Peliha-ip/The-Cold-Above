@@ -72,6 +72,7 @@ Mobs:
 - Smog creeper
 - Sludged
 - Corroded
+- Fairy
 
 Structures:
 - Observatory
@@ -109,6 +110,7 @@ Dimensions:
 - Alpha
 - Pre-classic
 - Filthra
+- Faelume
 
 Biomes:
 - Ice sheet
@@ -133,6 +135,10 @@ Biomes:
 - Polluted ocean
 - Polluted plains
 - Dead forest
+- Clover plains
+- Magical forest
+- Pink river
+- Pink ocean
 
 Blocks
 - Maple wood
@@ -352,6 +358,7 @@ Blocks
 - Polluted stone
 - Filthra log
 - Filthra poster
+- Clover
 - Macrauchenia egg
 - Saber-tooth squirrel egg
 - Smilodon egg
@@ -469,6 +476,7 @@ Items:
 - Bucket of polluted water
 - Bottle of polluted water
 - Stink bomb
+- Fairy dust
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
@@ -536,6 +544,7 @@ Items:
 - Smog creeper spawn egg
 - Sludged spawn egg
 - Corroded spawn egg
+- Fairy spawn egg
 
 Foods:
 - Maple syrup
@@ -676,6 +685,7 @@ Advancements:
 - Watch Out For Uncle Sam (Kill an oil slime)
 - Good As New (Remove the sticky oil effect with a water cauldron)
 - Carrying an Environmental Hazard (Get a bucket of oil)
+- Cloverspell (Enter the Faelume dimension)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
