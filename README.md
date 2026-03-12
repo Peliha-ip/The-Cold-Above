@@ -140,6 +140,8 @@ Biomes:
 - Magical forest
 - Pink river
 - Pink ocean
+- Cloudy mountains
+- Nexus plateau
 
 Blocks
 - Maple wood
@@ -689,6 +691,8 @@ Advancements:
 - Good As New (Remove the sticky oil effect with a water cauldron)
 - Carrying an Environmental Hazard (Get a bucket of oil)
 - Cloverspell (Enter the Faelume dimension)
+- MindBoggle (Visit all cosmic dimension)
+- Beat Hereafter (Visit all dimensions)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
