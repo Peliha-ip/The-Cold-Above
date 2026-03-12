@@ -74,6 +74,7 @@ Mobs:
 - Corroded
 - Fairy
 - Leprechaun
+- Giant
 
 Structures:
 - Observatory
@@ -93,6 +94,8 @@ Structures:
 - Refinery
 - Filthra tree
 - Filthra tree stump
+- Beanstalk
+- Sky tower
 
 Dimensions:
 - Crocus
@@ -363,6 +366,8 @@ Blocks
 - Filthra poster
 - Plastic lamp
 - Clover
+- Beanstalk stem
+- Beanstalk leaf
 - Macrauchenia egg
 - Saber-tooth squirrel egg
 - Smilodon egg
@@ -481,6 +486,7 @@ Items:
 - Bottle of polluted water
 - Stink bomb
 - Fairy dust
+- Bean
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
@@ -550,6 +556,7 @@ Items:
 - Corroded spawn egg
 - Fairy spawn egg
 - Leprechaun spawn egg
+- Giant spawn egg
 
 Foods:
 - Maple syrup
@@ -571,6 +578,7 @@ Foods:
 - Ichtrix
 - Cooked Ichtrix
 - Popsicle
+- Bowl of beans
 
 Enchantments:
 - Pressure standing
@@ -645,6 +653,7 @@ Features:
 - Sludgeds and corrodeds can be equipped with various things from least protective to most protective: nothing, polluted dirt, a used plastic water bottle, a dirty traffic cone, wooden scraps, a dead coral block, a bucket, a cauldron, a trash block, polluted stone, a concrete block, basalt, bricks, a bone block, and a respawn anchor. The armor drops as an item once broken.
 - Oil slimes also wear buckets as armor. They also instantly die when touching water.
 - If a copper golem picks up a dirty traffic cone, a bottle of polluted water, a bucket of polluted water, polluted dirt, polluted stone, a trash block, a used plastic water bottle, a plastic scrap, a rusty scrap, wooden scraps, or a Filthra log, instead of looking for a nearby chest, it will look for a nearby recycler.
+- Eating a bowl of beans makes the player fart, stunning nearby mobs for 15 seconds.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
@@ -693,6 +702,9 @@ Advancements:
 - Cloverspell (Enter the Faelume dimension)
 - MindBoggle (Visit all cosmic dimension)
 - Beat Hereafter (Visit all dimensions)
+- Jack And The Beanstalk (Climb up a beanstalk)
+- Fee Fi Fo Fum (Enter a sky tower)
+- I Gotta Go (Eat a bowl of beans and fart next to mobs)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
