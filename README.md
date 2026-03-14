@@ -600,10 +600,10 @@ Features:
 - Aurorae will appear in any cold biome or in any taiga or mountain variants.
 - Rubies, sapphires, opals, zircons, emeralds, amethyst shards, and quartz can be used as currency with aliens like gloops, slithering cats, somniworms, blobs, hexacrons, hippies, cortexes, déjà-vus, bookworms, orbels, crowneds, cosmollusks, tentrixes, starballoons, and tangleds. Aliens can barter rubies, sapphires, zircons, opals, emeralds, amethyst shards, or quartz for special loot. The loot might vary according to what was given to an alien. Rubies, sapphires, opals, and zircons will give better loot than emeralds, amethyst shards, or quartz.
 - Ice portals are now possible, and each portal can send you to a random cosmic dimension. Throwing a crocus in the ice portal will lead you to the crocus dimension. Throwing a phlox will lead you to the phlox dimension. Throwing a book will lead you to the storybook dimension. If none of the mentioned items are thrown, the cosmic dimensions will be random.
-- A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will transform into normal zombies before transforming into frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
+- A zombie or a drowned in powdered snow will transform into a frostbitten. Husks will first transform into normal zombies before becoming frostbittens. Frostbittens can turn into drowneds if they're submerged for too long.
 - Placing a ring of blue ice by 4x4 and placing stardust clumps on each block of blue ice will generate an ice portal, which allows the player to travel in space.
 - Placing maple syrup and a stick on a snow block will turn the syrup and the stick into maple taffy. The snow block will take 15 seconds to turn the maple syrup and the stick into maple taffy. Eating the maple taffy will turn it back into a stick.
-- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis will give the player yeti fur, a material that can be added to any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability or armor points with leather. Insulated boots of any tier allow players to walk on powdered snow, making leather boots in the mid to late game less of a burden.
+- Yetis are attracted to mints. It's also with mints that you breed yetis. Shearing yetis gives the player yeti fur, a material that can be added to any armor (including horse, nautilus, or wolf armor) for insulation without sacrificing durability or armor points compared to leather. Insulated boots of any tier allow players to walk on powdered snow, making leather boots less of a burden in the mid to late game.
 - Renaming a Smilodon "Diego" will change its model to the famous character from Ice Age.
 - Suspicious snow can often have smilodon husks and woolly rhinoceros husks as loot.
 - Penguins will make boats faster.
@@ -611,7 +611,7 @@ Features:
 - Stardust and rubies, sapphires, opals, zircons, emeralds, amethyst shards, or quartz can also be used to craft cat armor, which will protect cats, give better gifts, and repel creepers and phantoms from further away.
 - In the storybook dimension, special blocks compose this dimension. None of the blocks that naturally generate in this dimension can be broken.
 - At the (0,0) coordinates of the Phlox and Crocus dimensions await the Phlox Titan and the Crocus Titan, respectively; both are invulnerable.
-- Manta rays spawned in space or the end become cosmic rays. Manta rays spawned in the nether become fire rays. Manta rays spawned in the overworld will just be normal manta rays. Normal manta rays can suffocate if out of the water for too long, except if they're in the nether, in which case, they turn into fire rays.
+- Manta rays spawned in space or the end become cosmic rays. Manta rays spawned in the nether become fire rays. Manta rays spawned in the overworld will be normal manta rays. Normal manta rays can suffocate if out of the water for too long, except if they're in the nether, in which case, they turn into fire rays.
 - Narwhals, belugas, and orcas can die if beached for too long (not because of suffocation).
 - Fire rays can be a great transportation method in the Nether, but risky in the Overworld because rain hurts fire rays. Cosmic rays are more appropriate for traveling in the overworld, although not immune to fire, unlike fire rays.
 - Goo can be dropped from gloops and tangleds and can be smelted into slimeballs.
@@ -647,7 +647,7 @@ Features:
 - Hot air balloons can be an early way to travel in the air. To avoid making happy ghasts obsolete, entities can't be attached to hot air balloons.
 - Renaming a saber-tooth squirrel "Scrat" will change its texture to match the iconic character from Ice Age.
 - Another cosmic dimension that players can find is the Filthra dimension; however, the hazmat enchantment is gonna be mandatory since the air is so toxic.
-- Oil is an effective source of fuel and a way to smelt into plastic to craft traffic cones, plastic bottles, plastic buckets, and plastic blocks, but oil comes with risk. It can not only grant anyone sticky oil for an infinite time until it is cleaned off, but it can also cause an environmental disaster. So, if you want more plastic, I advise you to farm them via the sludged.
+- Oil is an effective source of fuel and a way to smelt into plastic to craft traffic cones, plastic bottles, plastic buckets, and plastic blocks, but oil comes with risk. It can not only grant anyone sticky oil for an unlimited time until it is removed, but it can also cause an environmental disaster. So, if you want more plastic, I advise you to farm them via the sludged.
 - Sticky oil is an effect that you get when touching oil. Sticky oil amplifies blast and fire damage while being more flammable (like being set on fire near a torch or furnace) and stacking with slowness, weakness, blindness, poison, and nausea. Sticky oil can also be given if an oil slime attacks the player. Thinking of jumping into a water block to clean yourself, not gonna work because touching water will cause whatever is covered in oil to die instantly. To clean yourself, use water inside a cauldron.
 - Jumping in polluted water grants anything that falls in it the poison, nausea, weakness, and wither effects.
 - Zombies, husks, drowneds, frostbittens, zombie villagers, skeletons, wither skeletons, strays, boggeds, and parcheds turn into a sludged if it were a zombie mob, or a corroded if it were a skeleton mob, if in oil or polluted water for too long. These mobs take more fire damage because they are covered in oil, destroy powdered snow and snow layers, and are instantly killed by water. Both drop plastic scraps upon death.
@@ -705,7 +705,7 @@ Advancements:
 - Good As New (Remove the sticky oil effect with a water cauldron)
 - Carrying an Environmental Hazard (Get a bucket of oil)
 - Cloverspell (Enter the Faelume dimension)
-- MindBoggle (Visit all cosmic dimension)
+- MindBoggle (Visit all cosmic dimensions)
 - Beat Hereafter (Visit all dimensions)
 - Jack And The Beanstalk (Climb up a beanstalk)
 - Fee Fi Fo Fum (Enter a sky tower)
