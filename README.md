@@ -589,8 +589,9 @@ Enchantments:
 - Pressure standing
 - Hazmat
 
-Effect:
+Effects:
 - Sticky oil
+- Breath of fire
 
 Fluids:
 - Oil
@@ -659,8 +660,9 @@ Features:
 - Oil slimes also wear buckets as armor. They also instantly die when touching water.
 - If a copper golem picks up a dirty traffic cone, a bottle of polluted water, a bucket of polluted water, polluted dirt, polluted stone, a trash block, a used plastic water bottle, a plastic scrap, a rusty scrap, wooden scraps, or a Filthra log, instead of looking for a nearby chest, it will look for a nearby recycler.
 - Eating a bowl of beans makes the player fart, stunning nearby mobs for 15 seconds.
-- Eating a bowl of beans or a bowl of chili, or pouring oil in the storybook dimension is instant death for the user.
-- In the storybook, all hostile mobs immediately despawn, as if the dimension were always on peaceful mode.
+- Eating a bowl of beans or a bowl of chili, or pouring oil in the storybook dimension, is instant death for the user.
+- In the storybook, all hostile mobs immediately despawn, as if the dimension were always in peaceful mode.
+- Eating a bowl of chili grants the player Breath of Fire, making the player breathe fire like a dragon. Just not recommended to have the Breath of Fire effect near flammable blocks, and especially far from oil.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
