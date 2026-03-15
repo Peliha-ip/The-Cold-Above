@@ -663,6 +663,7 @@ Features:
 - Eating a bowl of beans or a bowl of chili, or pouring oil in the storybook dimension, is instant death for the user.
 - In the storybook, all hostile mobs immediately despawn, as if the dimension were always in peaceful mode.
 - Eating a bowl of chili grants the player Breath of Fire, making the player breathe fire like a dragon. Just not recommended to have the Breath of Fire effect near flammable blocks, and especially far from oil.
+- Mobs can be frozen with the iceologer staff just after they got hit with a big block of ice.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
