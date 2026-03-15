@@ -714,6 +714,9 @@ Advancements:
 - Jack And The Beanstalk (Climb up a beanstalk)
 - Fee Fi Fo Fum (Enter a sky tower)
 - I Gotta Go (Eat a bowl of beans and fart next to mobs)
+- Too Hot To Handle (Eat a bowl of chili)
+- Feel The Burn (Set a mob or a structure on fire with the Breath of Fire effect)
+- I Aim To Freeze (Freeze a mob with the iceologer staff)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
