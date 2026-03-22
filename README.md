@@ -360,7 +360,6 @@ Blocks
 - Dirty traffic cone
 - Recycler
 - Used plastic water bottle
-- Sulfur block
 - Wooden scraps
 - Polluted dirt
 - Polluted stone
@@ -662,8 +661,8 @@ Features:
 - Eating a bowl of beans makes the player fart, stunning nearby mobs for 15 seconds.
 - Eating a bowl of beans or a bowl of chili, or pouring oil in the storybook dimension, is instant death for the user.
 - In the storybook, all hostile mobs immediately despawn, as if the dimension were always in peaceful mode.
-- Eating a bowl of chili grants the player Breath of Fire, making the player breathe fire like a dragon. Just not recommended to have the Breath of Fire effect near flammable blocks, and especially far from oil.
-- Mobs can be frozen with the iceologer staff just after they got hit with a big block of ice.
+- Eating a bowl of chili grants the player Breath of Fire, making the player breathe fire like a dragon. Not recommended to place the Breath of Fire effect near flammable blocks, especially far from oil.
+- Mobs can be frozen with the iceologer staff just after they are hit with a big block of ice.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
