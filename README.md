@@ -482,7 +482,6 @@ Items:
 - Plastic
 - Rusty scrap
 - Bucket of oil
-- Sulfur
 - Bucket of polluted water
 - Bottle of polluted water
 - Stink bomb
