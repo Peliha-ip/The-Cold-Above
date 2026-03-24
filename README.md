@@ -269,8 +269,8 @@ Blocks
 - Sapphire block
 - Zircon block
 - Opal block
-- Stardust block
-- Stardust clumps
+- Star dust block
+- Star dust clumps
 - Crocus stem
 - Crocus petals
 - Phlox stem
@@ -388,7 +388,7 @@ Items:
 - Crocus raft with chest
 - Phlox raft
 - Phlox raft with chest
-- Stardust
+- Star dust
 - Ruby
 - Sapphire
 - Opal
@@ -487,6 +487,7 @@ Items:
 - Stink bomb
 - Fairy dust
 - Bean
+- Star charm
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
@@ -647,7 +648,7 @@ Features:
 - Hot air balloons can be an early way to travel in the air. To avoid making happy ghasts obsolete, entities can't be attached to hot air balloons.
 - Renaming a saber-tooth squirrel "Scrat" will change its texture to match the iconic character from Ice Age.
 - Another cosmic dimension that players can find is the Filthra dimension; however, the hazmat enchantment is gonna be mandatory since the air is so toxic.
-- Oil is an effective source of fuel and a way to smelt into plastic to craft traffic cones, plastic bottles, plastic buckets, and plastic blocks, but oil comes with risk. It can not only grant anyone sticky oil for an unlimited time until it is removed, but it can also cause an environmental disaster. So, if you want more plastic, I advise you to farm them via the sludged.
+- Oil is an effective source of fuel and a way to smelt into plastic to craft traffic cones, plastic bottles, plastic buckets, and plastic blocks, but oil comes with risk. It can not only grant anyone sticky oil for an unlimited time, until it is removed, but also cause an environmental disaster. So, if you want more plastic, I advise you to farm them via the sludged.
 - Sticky oil is an effect that you get when touching oil. Sticky oil amplifies blast and fire damage while being more flammable (like being set on fire near a torch or furnace) and stacking with slowness, weakness, blindness, poison, and nausea. Sticky oil can also be given if an oil slime attacks the player. Thinking of jumping into a water block to clean yourself, not gonna work because touching water will cause whatever is covered in oil to die instantly. To clean yourself, use water inside a cauldron.
 - Jumping in polluted water grants anything that falls in it the poison, nausea, weakness, and wither effects.
 - Zombies, husks, drowneds, frostbittens, zombie villagers, skeletons, wither skeletons, strays, boggeds, and parcheds turn into a sludged if it were a zombie mob, or a corroded if it were a skeleton mob, if in oil or polluted water for too long. These mobs take more fire damage because they are covered in oil, destroy powdered snow and snow layers, and are instantly killed by water. Both drop plastic scraps upon death.
@@ -662,6 +663,7 @@ Features:
 - In the storybook, all hostile mobs immediately despawn, as if the dimension were always in peaceful mode.
 - Eating a bowl of chili grants the player Breath of Fire, making the player breathe fire like a dragon. Not recommended to place the Breath of Fire effect near flammable blocks, especially far from oil.
 - Mobs can be frozen with the iceologer staff just after they are hit with a big block of ice.
+- If the player has star dust or a star charm in their inventory, they can perform a spin jump. However, if the player has star dust without a star charm, the star dust gets consumed after the spin jump. The star charm is similar to the elytra: when its durability reaches zero, it doesn't break; it stops working until it is repaired.
 
 Advancements: 
 - Is It Cold Outside (Encounter a yeti)
