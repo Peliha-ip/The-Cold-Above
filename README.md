@@ -512,7 +512,7 @@ Items:
 - Manta ray spawn egg
 - Slithering cat spawn egg
 - Droopy dragon spawn egg
-- Somniworm Spawn Egg
+- Somniworm Spawn egg
 - Woolly rhinoceros spawn egg
 - Blob spawn egg
 - Ichtrix spawn egg
@@ -718,6 +718,8 @@ Advancements:
 - Too Hot To Handle (Eat a bowl of chili)
 - Feel The Burn (Set a mob or a structure on fire with the Breath of Fire effect)
 - I Aim To Freeze (Freeze a mob with the iceologer staff)
+- It's Cold At The Top (Craft a star charm)
+- May The Stars Watch You (Make a spin jump)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
