@@ -718,9 +718,10 @@ Advancements:
 - Too Hot To Handle (Eat a bowl of chili)
 - Feel The Burn (Set a mob or a structure on fire with the Breath of Fire effect)
 - I Aim To Freeze (Freeze a mob with the iceologer staff)
-- It's Cold At The Top (Craft a star charm)
+- Absolute Hero (Craft a star charm)
 - May The Stars Shine Down On You (Make a spin jump)
 - Clear The Air (Use a stink bomb)
+- It's Cold At The Top (Do a spin jump on top of a mountain)
 
 Tags:
 - Alien: gloop, tangled, capricorn, space whale, flatworm (cosmic), peacock spider, hippie, cortex, slithering cat, manta ray (cosmic), somniworm, blob, bloop, ichtrix, carcyn, murrix, stone chicken, fuzzy worm, déjà-vu, bookworm, orbel, hexacron, crowned, crystal fox, starballoon, cosmollusk, tentrix, owl (suspicious)
