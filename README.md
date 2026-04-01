@@ -77,6 +77,7 @@ Mobs:
 - Giant
 - Lemming
 - Blobfish
+- Barreleye
 
 Structures:
 - Observatory
@@ -560,6 +561,7 @@ Items:
 - Giant spawn egg
 - Lemming spawn egg
 - Blobfish spawn egg
+- Barreleye spawn egg
 
 Foods:
 - Maple syrup
