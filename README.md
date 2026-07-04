@@ -78,6 +78,8 @@ Mobs:
 - Lemming
 - Blobfish
 - Barreleye
+- Seadevil
+- Hagfish
 
 Structures:
 - Observatory
@@ -562,6 +564,8 @@ Items:
 - Lemming spawn egg
 - Blobfish spawn egg
 - Barreleye spawn egg
+- Seadevil spawn egg
+- Hagfish spawn egg
 
 Foods:
 - Maple syrup
