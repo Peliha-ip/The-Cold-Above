@@ -83,6 +83,8 @@ Mobs:
 - Glass squid
 - Chimaera
 - Hatchetfish
+- Greenland shark
+- Goblin shark
 
 Structures:
 - Observatory
@@ -494,6 +496,7 @@ Items:
 - Fairy dust
 - Bean
 - Star charm
+- Bucket of hatchetfish
 - Penguin spawn egg
 - Iceloger spawn egg
 - Leopard seal spawn egg
@@ -572,6 +575,8 @@ Items:
 - Glass squid spawn egg
 - Chimaera spawn egg
 - Hatchetfish spawn egg
+- Greenland shark spawn egg
+- Goblin shark spawn egg
 
 Foods:
 - Maple syrup
