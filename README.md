@@ -81,6 +81,7 @@ Mobs:
 - Seadevil
 - Hagfish
 - Glass squid
+- Chimaera
 
 Structures:
 - Observatory
@@ -568,6 +569,7 @@ Items:
 - Seadevil spawn egg
 - Hagfish spawn egg
 - Glass squid spawn egg
+- Chimaera spawn egg
 
 Foods:
 - Maple syrup
