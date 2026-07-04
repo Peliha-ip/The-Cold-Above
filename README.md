@@ -80,6 +80,7 @@ Mobs:
 - Barreleye
 - Seadevil
 - Hagfish
+- Glass squid
 
 Structures:
 - Observatory
@@ -566,6 +567,7 @@ Items:
 - Barreleye spawn egg
 - Seadevil spawn egg
 - Hagfish spawn egg
+- Glass squid spawn egg
 
 Foods:
 - Maple syrup
