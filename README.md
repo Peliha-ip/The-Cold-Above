@@ -82,6 +82,7 @@ Mobs:
 - Hagfish
 - Glass squid
 - Chimaera
+- Hatchetfish
 
 Structures:
 - Observatory
@@ -570,6 +571,7 @@ Items:
 - Hagfish spawn egg
 - Glass squid spawn egg
 - Chimaera spawn egg
+- Hatchetfish spawn egg
 
 Foods:
 - Maple syrup
